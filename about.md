@@ -1,30 +1,16 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+title: About Ryan Barrington Cox
+tags: []
+modified: 7-30-2014
 comments: true
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+Music was my first calling, the first thing I went nuts over.  That was over twenty years ago.  I got hooked on Rock and then Folk and it was gathering no moss from there.
 
-## Minimal Mistakes is all about:
+I spent most of my twenties writing and recording [music](http://ryanbarringtoncox.bandcamp.com) and playing in [bands](http://ifyouwannas.bandcamp.com/).  I could go on about that for a while, but that's not what I'm trying to say here.  Somewhere along the way I starting hacking around, trying to combine art and technology.  I got a job fixing vintage audio gear in Australia (and occasionally shocking myself), and then returned to the USA to work at [Moog Music](http://moogmusic.com). I stayed there four or five years and learned a lot about electronics and synthesizers.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+In 2009, I fell into software as a lucky accident.  It’s been a huge blessing, a renaissance point in my life.  Thinking about software and algorithms has changed my way of thinking about everything - love, art, process, music - and I feel more excited than ever before.  Lately I find myself spending more time thinking about how to do things (rather than just diving in, doing them blind). Does that make sense?
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+Learning new processes, techniques and habits.  Evolving, bettering, trying to move forward with some tact.  That's what I'm trying to do here.  I hope you enjoy reading some of these posts.

@@ -5,7 +5,7 @@ title: "Bio"
 modified: 2014-07-31 13:33
 tags: [Bio]
 image:
-  feature: 
+  feature: texture-feature-03.jpg
   credit: 
   creditlink: 
 share: 

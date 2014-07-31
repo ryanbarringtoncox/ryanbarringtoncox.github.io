@@ -13,7 +13,6 @@
 
 {% include _navigation.html %}
 
-<!--
 {% if page.image.feature %}
   <div class="image-wrap">
   <img src=
@@ -30,26 +29,37 @@
   {% endif %}
   </div>
 {% endif %}
--->
 
-<div class="article-author-side">
-  {% include _author-bio.html %}
-</div>
-
-<div id="index">
-  <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-  {% for post in site.posts limit:5 %}    
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  {% for post in site.posts limit:1 %}    
   <article>
-    {% if post.link %}
-      <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-    {% else %}
-      <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-      <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-    {% endif %}
+    <div class="headline-wrap">
+      {% if post.link %}
+        <h1><a href="{{ post.link }}">{{ post.title }}</a>TEST</h1>
+      {% else %}
+        <h1><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h1>
+      {% endif %}
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      {{ post.content }}
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          {% include _author-bio.html %}
+        </div>
+      </footer>
+
+    </div><!-- /.article-wrap -->
+  {% if site.disqus_shortname and post.comments %}
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+  {% endif %}
   </article>
   {% endfor %}
 </div>
-<!-- /#index -->
+<!-- /#main -->
 
 <div class="footer-wrap">
   <footer>

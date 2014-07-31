@@ -1,10 +1,14 @@
 ---
 layout: page
 permalink: /bio/
-title: About Ryan Barrington Cox
-tags: [About, Bio]
-modified: 7-30-2014
-comments: true
+title: "Bio"
+modified: 2014-07-31 13:33
+tags: [Bio]
+image:
+  feature: 
+  credit: 
+  creditlink: 
+share: 
 ---
 
 Music was my first calling, the first thing that knocked my socks off my toes and kept me up all night long.  It was the first thing that really stuck, and that was over twenty years ago.

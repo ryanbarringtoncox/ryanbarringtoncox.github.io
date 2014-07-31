@@ -1,30 +1,32 @@
 ---
 layout: post
 title: Remark Ability
-description: "What is worth remarking about anyway?"
+description: "First Commit: What gets a response?  What’s needed?  Where are the gaps, the holes that need filling?  Where is the overlap between fun, fulfilling work and opportunity?" 
 modified: 2014-07-30
 tags: [remarkability]
 comments: true
 ---
 
-I have spent decades of energy and time writing songs, recording them and playing them for people.  I’ve been striving to be great, to write amazing songs that make people feel the way I felt when I was a teenager with headphones on.  Riding the bus home, lost in bliss.  Until a few years ago, my other pursuits came second to making music.
+I have spent decades of energy and time writing songs, recording them and playing them for people.  I’ve been striving to be great, to write amazing songs that make people feel the way I felt when I was a teenager with headphones on.  Riding the bus home, lost in bliss.  Until recently, all other pursuits came second to making music.
 
-Booking shows is not easy.  Getting up in front of a bar room crowd and trying to hold their attention, make them feel, make them care for forty minutes?  Not easy either.  The mission was challenging, thrilling even.  There was no instruction manual.  We wrote it ourselves, and we had some successes and some failures.
+Booking shows is not easy.  Getting up in front of a bar room crowd and trying to hold their attention, make them feel, make them care for forty minutes?  Not easy either.  The mission was challenging, thrilling even.  There was no instruction manual.  We wrote our own, and we had some successes and some failures.
 
-About five years ago, I turned 30 and started trying some different things.  I tried computer programming and got a response right away.  I’ve had three jobs in the past five years, each better than the last (ok, ok, maybe the first one wasn’t a real “job” but it was a start).  More recently, I’ve started doing some speaking projects and gotten a good response from that too.
+Fve years ago, I turned 30 and felt like trying some different things.  I tried computer programming and got a response right away.  Whoah, the world needs programmers!  Interesting.  I’ve had three jobs in the past five years, each better than the last (ok, ok, maybe the first one wasn’t a real “job job” but it was a start).  More recently, I’ve started doing some speaking projects and I’ve gotten a good response from that too.  Hm, not that many people are willing to get up and speak either [wheels start turning in my head].
 
-It’s nice to get a response, to be heard, which brings me to this idea of remarkability.  The idea has been brewing in me for a few years now, but Seth Godin gave me the right word for it (Thanks, Seth!).  We are bombarded with media, with information.  We carry rectangles in our pockets that have the whole history of recorded music on them.  How badly does the world need a new song?  When we hear a new band that’s really good or even great, how big of a deal is that?
+So what gets a response?  What’s needed?  Where are the gaps, the holes that need filling?  Where is the overlap between fun, fulfilling work and opportunity?  I’ll be honest and say, for me, it’s nice to get a response, to be heard, to do something that’s not falling on deaf ears.
 
-This is not the 50s.  Rock n Roll isn’t exploding onto the scene, mixing up the rules, redefining our culture.  Rock is not that risky right now.
+We carry rectangles in our pockets that allow instant access to nearly every piece of recorded music, ever.  How badly does the world need a new song?  When we hear a new band that’s really good or even great, how big of a deal is that?  Are we compelled to buy the record, replay the song for months, years?
 
-What fills that void?
+Where are the saturations?
 
-“Remarkable” literally means “worth remarking about.”  What can we do that’s worth remarking about?  This usually aligns with risk, change, confronting fear, stepping outside of the things we do “well.”
+Where are the voids?
 
-I’ve noticed that trying different things, new things, riskier things, is getting me more of a response than trying to put my songs out into the world.
+Don’t get me wrong.  Music is beautiful, religious.  I’ll always do it.  Writing songs and recording them, putting your heart out there, playing a new song for a close friend - it doesn’t get any better than that!   I’m just not sure that the world needs more songs right now.  And I’m not sure that I want to spend much energy pushing my songs on the world.
 
-At a certain point, it felt like I was trying so hard to get people to notice my music.  It got to be kind of draining.  Writing songs and recording them, playing them for a close friend, is one of the easiest most beautiful things in the world.  As long as the songs are coming, I will be grateful to write them.
+Einstein said doing the same thing over and over again and expecting a different result is the definition of insanity.  I’ve noticed that trying different, riskier things is bringing different, more interesting results.  Is that the definition of sanity?
 
-However, I’m not sure I need a response to my music right now. From the world, I mean.
+Anybody who has spent time trying to book shows knows how draining it can be.  I’m talking about how much energy you get back for what you’re putting in.  There are so many great bands out there, playing for free!
 
-This blog is another risk, a challenge, an attempt to mix things up, try something new, get out of my routine.  Let’s see what happens.
+The astute reader might be saying something like, “Yes, well, there are plenty of bloggers out there giving it away for free too!  Does the world need another blogger?”  To that I say, “You are a smartass.  But you’ve got a point.”
+
+This blog is new.  For me.  It’s a challenge, an attempt to mix things up, try something different, expand creatively, get out of my comfort zone.  Let’s take a stab and see what happens.

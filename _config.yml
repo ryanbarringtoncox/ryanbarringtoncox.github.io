@@ -1,8 +1,8 @@
 title:            Music Programming Art Process
 description:      This is only test. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://ryanbarringtoncox.github.io
-#url:              http://ryanbarringtoncox.com
+#url:              http://ryanbarringtoncox.github.io
+url:              http://ryanbarringtoncox.com
 #url:              http://localhost:4000 
 disqus_shortname:
 

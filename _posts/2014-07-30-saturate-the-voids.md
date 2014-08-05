@@ -11,7 +11,7 @@ I’ve spent a couple decades writing songs, recording them and playing them for
 
 Five years ago, I turned 30 and felt like trying some different things.  Booking shows was starting to feel tiring, less fun.  Didn’t I get into music because it was giving me energy?  Am I doing this out of joy or habit?
 
-Around this time, I starting  programming computers and it was fun and creative, just like music.  It was different (from music) in that I got a strong response right away.  Whoah, the world needs programmers!  Interesting.  In a relatively short period of time, I’ve found great jobs and met lots of new, interesting people.
+Around this time, I starting  programming computers and it was fun and creative, just like music.  It was different (from music) in that I got a strong response right away.  Whoah, the world needs programmers!  Interesting.  In a relatively short period of time, I’ve found great jobs and met lots of interesting people.
 
 This got me asking some questions.  What gets a response?  What’s needed?  Where is the overlap between fun, fulfilling work and opportunity?
 

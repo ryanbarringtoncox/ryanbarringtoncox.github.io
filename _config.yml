@@ -1,5 +1,5 @@
-title:            Music Programming Art Process
-description:      This is only test. 
+title:            Art Music Process
+description:      Musings on process and making cool things. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://ryanbarringtoncox.github.io
 url:              http://ryanbarringtoncox.com
@@ -10,7 +10,7 @@ disqus_shortname:
 owner:
   name:           Ryan Barrington Cox
   avatar:         bio-photo.png
-  bio:            "Musician Programmer Strategist."
+  bio:            "Musician Programmer."
   email:          ryanbarrington@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # For Google Authorship https://plus.google.com/authorship

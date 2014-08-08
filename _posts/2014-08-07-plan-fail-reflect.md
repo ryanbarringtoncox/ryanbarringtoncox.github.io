@@ -33,7 +33,7 @@ The hidden takeaway:  Quantity produces quality.  Want results?  Produce a lot. 
 We forget the forgettable songs. The gems shine through.
  
 
-They saythe definition of insanity is doing the same thing over and over again and expecting a different result.  What about doing something slightly different each time and expecting a different result?  Is that the definition of sanity?
+They say the definition of insanity is doing the same thing over and over again and expecting a different result.  What about doing something slightly different each time and expecting a different result?  Is that the definition of sanity?
 
  I'm not saying there is anything wrong with insanity.  Nope.  I'm just saying plan, fail, reflect.  Plan. Fail. Reflect.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asking Yourself Questions (a destiny hack)
+title: Asking Yourself Questions (and Hacking Your Excitement)
 description: "Navigate the noise.  Fly the dog to sky victory."
 modified: 2014-08-11
 tags: [desinty hack]

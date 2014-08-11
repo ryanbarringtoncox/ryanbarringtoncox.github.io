@@ -34,10 +34,12 @@ There are many paths.  For those interested in this one, take a little time to a
 
 I like to ask questions early in the morning, before the day spins up and gets noisy.  Quiet times are the best for questions.
 
+The important thing is to question everything, especially yourself!
+
 ---
 
 *“Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use.   Once you learn that, you'll never be the same again.” - Steve Jobs*
 
 ---
 
-*This idea was influenced by lots of folks including [Scott Britton](http://life-longlearner.com/), [Bill Burr](http://www.billburr.com/) and [Seth Godin](http://www.sethgodin.com/sg/) to name a few.*
+*This idea was influenced by lots of thinkers, including [Scott Britton](http://life-longlearner.com/), [Bill Burr](http://www.billburr.com/) and [Seth Godin](http://www.sethgodin.com/sg/).  Thanks for the inspiration, guys.*

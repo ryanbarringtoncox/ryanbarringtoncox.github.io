@@ -2,7 +2,7 @@
 layout: post
 title: Hack Your Enthusiasm with Questions.
 description: "Navigate the noise.  Fly the dog to sky victory."
-modified: 2014-08-12
+modified: 2014-08-13
 tags: [goalsdesinty hack]
 comments: true
 ---
@@ -12,7 +12,7 @@ There is a lot of information at our fingertips right now, which is awesome.  On
 
 So how do we parse all the information that’s coming in and filter out the noise?  How do we leverage information overload in our favor and get what we want?
 
-For starters, it helps if you know what you want. This is a deciptively simple concept.
+For starters, it helps if you know what you want. This is a deceptively simple concept.
 
 Recently, I’ve been asking myself meaningful questions on a regular basis.  Stop, zoom out and remind yourself of the big picture.  Check in with your soul.  Sit down and ask yourself what you want.  Pay attention.  You deserve it.                                                                                                                                   
 

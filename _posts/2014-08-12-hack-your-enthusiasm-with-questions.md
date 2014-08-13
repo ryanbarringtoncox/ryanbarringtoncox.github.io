@@ -2,7 +2,7 @@
 layout: post
 title: Hack Your Enthusiasm with Questions.
 description: "Navigate the noise.  Fly the dog to sky victory."
-modified: 2014-08-11
+modified: 2014-08-12
 tags: [goalsdesinty hack]
 comments: true
 ---

@@ -24,7 +24,7 @@ If you’re like me, you do your best work when you’re excited.  I only feel e
 Through questions I’ve been able to navigate information overload and get a clearer sense of what I want.  I’ve settled on a pyramid of priorities.  It sounds crazy because it is crazy.  It’s a priorities pyramid!
 
 <figure>
-  <img src="images/priorities-pyramid.png" alt="Priorities Pyramid">
+  <img src="/images/priorities-pyramid.png" alt="Priorities Pyramid">
 </figure>
 
 1.  **Health** is the most important thing.  Without health, other things suck.

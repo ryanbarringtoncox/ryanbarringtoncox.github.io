@@ -3,7 +3,7 @@ layout: post
 title: Hack Your Enthusiasm with Questions.
 description: "Navigate the noise.  Fly the dog to sky victory."
 modified: 2014-08-13
-tags: [goalsdesinty hack]
+tags: [questions,goals,desinty,hack]
 comments: true
 ---
 I’ve discovered that I can steer my life and manifest change just by asking questions.  Laugh it up.  I’m serious.

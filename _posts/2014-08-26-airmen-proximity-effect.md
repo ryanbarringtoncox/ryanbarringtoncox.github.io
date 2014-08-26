@@ -6,7 +6,7 @@ modified: 2014-08-26
 tags: [workout,airmen,strategy,proximity,improvement,focus]
 comments: true
 ---
-We have a gym in the basement of our building.  I go down there to work out during lunch sometimes.  We share our building with some other organizations, including the Air Force.  There are often airmen working out at the same time.  Though we don’t speak much, I’m struck by the focus and energy that airmen bring to their workout.  It reminds me of the disciplined path they’ve taken for years, a rigorous training of body and mind.
+We have a gym in the basement of our building.  I go down there to work out during lunch sometimes.  We share our building with some other organizations, including the Air Force.  There are often airmen working out at the same time.  I’m often struck by the focus and energy that airmen bring to their workout.  It reminds me of the disciplined path they’ve taken for years, a rigorous training of body and mind.
 
 When I was sleeping til noon and having pizza for breakfast in my early twenties, these folks were waking up at the crack of dawn, making their beds and gearing up for a productive day.
 

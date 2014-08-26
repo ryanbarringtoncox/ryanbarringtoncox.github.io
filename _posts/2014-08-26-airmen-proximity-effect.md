@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Airmen Proximity Effect
+title: Airmen Proximity Effect
 description: "How often do we align our focus, our ethic, our energy to those around us?  Do we raise our game and do our best work when we’re surrounded by sharp, on-point people?"
 modified: 2014-08-26
 tags: [workout,airmen,strategy,proximity,improvement,focus]
@@ -14,6 +14,4 @@ Airmen work out hard.  **The interesting part: I’ve noticed I have a better wo
 
 How often does this happen?  How often do we (unconsciously?) align our focus, our ethic, our energy to those around us?  Do we raise our game and do our best work when we’re surrounded by sharp, on-point people?
 
-And is the opposite also true?
-
-Big thanks to the airmen for the epiphany.
+Is the opposite also true?

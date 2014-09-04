@@ -1,0 +1,34 @@
+---
+layout: post
+title: What's Your Recording Setup?
+description: "My response to an email question about recording equipment."
+modified: 2014-09-04
+tags: [recording,music,albums,diy]
+comments: true
+---
+
+*I got an email from someone who found my [bandcamp page](http://ryanbarringtoncox.bandcamp.com) and listened to my albums.  They asked about my recording setup.  I enjoyed ranting about that and thought I'd share my response below, in case others are interested as well.*
+
+*This is an extremely subjective topic! There are lots of folks out there who make great-sounding recordings and have a different take on things.  Still, I feel I've learned a few things over the last 20 years, especially when it comes to making recordings on a tight budget will minimal time (I have a day job and a family). I record music because I feel alive when I'm doing it. I'd encourage anyone interested to have a go* 
+
+---
+
+I've been through a lot of different setups over the years.  Right now, it's pretty minimal.  That's partially due to taste and partially due to time restrictions.  I use a Shure SM57 and an AT2035 condenser mic for almost everything.  The 57 is a magically durable mic that costs $100 and works on all kinds of stuff.  I'd recommend the 57 if you use only one mic. 
+
+I record using Pro Tools but that's only because I've gotten used to it for over the last 10 years and I know all the keyboard shortcuts, can work really fast with it, etc. I'd recommend using something cheaper and easier like [Reaper](http://www.reaper.fm) if I were starting again. I plan to switch software someday soon.
+
+I used to use lots of mics on drums.  Now I use one or two mics at most.  For me, the real trick is getting a good room sound.  Lots of wood and high ceilings are a plus.  If you get a great room sound to begin with, you don't have to do much later on. Early jazz and rock records were recorded minimally, with fewer mics in a good-sounding room.  Newer records tend to utilize more mics placed closer to sound sources, with artificial reverbs and effects added to mimic the sound of a room.  I prefer the former aesthetic, partially because I like it more and partially because it's easier to attain. I don't think a slick, overproduced sound is a realistic goal when you are recording yourself at home with a minimal budget.  Besides, I prefer a workflow that allows me to work quickly and capture inspired performances. I love Alan Lomax recordings so I'm probably heavily biased here. 
+
+**Compression rules.**  I use compression on things that I want to stick out, like vocals and drums.  If you have any way to record to tape (even just a cassette), that's a great way to get compression.  There are plugins as well.  Experiment with tape if you can. Magical things happen when you record to tape, then dump it into a computer.  The waveforms sound (and look) different.
+
+**Re-amping** is a great way to get unique reverbs.  By that I mean, record a dry vocal then solo it and play it back really loud in a big room or bathroom with a microphone far away from the speaker source.  You can get echoy sounds and blend that in with the dry vocal. The result will be something of your own making, not replicable by a computer program
+
+The amount of effects out there can be really overwhelming.  I think compression and reverb are the essential ones to learn.  After that, have a go at EQ.
+
+I dislike mixing so I try to get things to sound good early on, rather than trying to 'fix it in the mix' later on. The fewer tracks I can use to get a good sound, the better.  Who wants to twiddle the levels on 24 tracks towards the end of a project?  Not me.  Remember: Sgt Peppers was recorded using four-track equipment.  Restrictions and limitations can push us to be more creative and rise to the challenge.
+
+The only way to learn is to jump in and experiment.  Enjoy making things sound fucked-up and awful.  Embrace failure and mistakes.  Be risky.  It's all part of the journey towards getting the sounds in your head.  Happy accidents will happen too.
+
+On a final note, It's good to be aware of trade-offs.  I think it's easier to get in a creative headpsace when your technology overhead is minimized. I always choose simplicity and passion over the technical and complex scenarios that generated more hi-fi sounds. Most modern music on the radio today sounds artificial to me. Early Stones records sound more like the way music sounds in a room to my ears.  Natural.
+
+Capturing sounds is magic.  Chasing them has been very worthwhile for me, a metaphor for soul-searching. Hope some of this helps!

@@ -7,29 +7,34 @@ tags: [recording,music,albums,diy]
 comments: true
 ---
 
-*I got an email from someone who found my [bandcamp page](http://ryanbarringtoncox.bandcamp.com) and listened to my albums.  They asked about my recording setup.  I enjoyed ranting about that and thought I'd share my response below, in case others are interested as well.*
+*I got an email from someone who found my [bandcamp page](http://ryanbarringtoncox.bandcamp.com) and listened to my albums.  They asked about my recording setup.  I enjoyed answering and thought I'd share my response below, in case others are interested as well.*
 
-*This is an extremely subjective topic! There are lots of folks out there who make great-sounding recordings and have a different take on things.
-I feel I've learned a few things over the last 20 years, especially when it comes to making recordings on a tight budget with minimal time. I record music because I feel alive when I'm doing it. I'd encourage anyone interested to have a go.* 
+*This is an extremely subjective topic! There are lots of folks out there who make great-sounding recordings and have a different take on things.*
+
+*Disclaimers aside, I do feel I've learned a few things over the last 20 years by recording music on a tight budget with minimal time. I record music because I feel alive when I'm doing it. I'd encourage anyone interested to have a go. The tools have never been cheaper or more accessible than they are now.* 
 
 ---
 
-I've been through a lot of different setups over the years.  Right now, my setup is minimal.  That's partially due to taste and partially due to time restrictions.  I use a Shure SM57 and an AT2035 condenser mic for almost everything.  The 57 is a magically durable mic that costs $100 and works on all kinds of stuff.  I'd recommend the 57 if you use only one mic. 
+I've been through a lot of different setups.  My current setup is minimal.  That's partially due to taste and partially due to time restrictions.  I use a Shure SM57 and an AT2035 condenser mic for almost everything.  The 57 is a magically durable mic that costs $100 and sounds great on all kinds of stuff.  I'd recommend the 57 if you use only one mic. 
 
 I record using Pro Tools but that's only because I've gotten used to it and I know the keyboard shortcuts, can work quickly with it, etc. I'd recommend using something cheaper and easier like [Reaper](http://www.reaper.fm) if I were starting again. I plan to switch software someday soon.
 
-How many mics to use at once?  I used to use lots of mics on drums.  Now I use one or two mics at most.  For me, the real trick is getting a good room sound.  Lots of wood and high ceilings are a plus.  If you get a great room sound to begin with, you don't have to do much later on. Early jazz and rock records were recorded minimally, with fewer mics in a good-sounding room.  Newer records tend to utilize more mics placed closer to sound sources, with artificial reverbs and effects added to mimic the sound of a room.  I prefer the former aesthetic, partially because I love it and partially because it's easier to attain. I don't think a slick, overproduced sound is a realistic goal when you are recording yourself at home with a minimal budget.  Besides, I prefer a workflow that allows me to work quickly and capture inspired performances. I love Alan Lomax recordings so I'm probably heavily biased here. 
+How many mics to use at once?  Let's take the drums example as they are a beast to record.  I used to use lots of mics on drums.  Now I use one or two mics at most.  For me, the real trick is getting a good room sound.  Lots of wood and high ceilings are a plus.  If you get a great room sound to begin with, you don't have to do much later on. Early jazz and rock records were recorded minimally, with a few mics in a good-sounding room.  Newer records tend to utilize more mics placed closer to sound sources, with artificial reverbs and effects added to mimic the sound of a room.  I prefer the former aesthetic, partially because I love old records and partially because it's a simpler approach to mimic.
+
+I don't think a slick, overproduced sound is a realistic goal when you are recording yourself at home with a minimal budget.  Besides, I prefer a workflow that allows me to work quickly and capture inspired performances. I love Alan Lomax recordings so I'm probably heavily biased here. 
 
 **Compression rules.**  I use compression on things that I want to stick out, like vocals and drums.  If you have any way to record to tape (even just a cassette), that's a great way to get compression.  There are plugins as well.  Experiment with tape if you can. Magical things happen when you record to tape, then dump it into a computer.  The waveforms sound (and look) different.
 
-**Re-amping** is a great way to get unique reverbs.  By that I mean, record a dry vocal then solo it and play it back really loud in a big room or bathroom with a microphone far away from the speaker source.  You can get echoy sounds and blend that in with the dry vocal. The result will be something of your own making, not replicable by a computer program
+**Re-amping** is a great way to get unique reverbs.  By that I mean, record a dry sound (vocal or guitar perhaps) then solo it and play it back really loud in a big room or bathroom with a microphone far away from the speaker.  Record that faraway version of the sound.  You can get wonderful, lush, echoy sounds by doing this and blend that in with the dry vocal. The result will be something of your own making, not replicable by a plugin.  **This is the sound of real air molecules!**
 
-The amount of effects out there can be really overwhelming.  I think compression and reverb are the essential ones to learn.  After that, fiddle with EQ.
+The amount of effects out there can be overwhelming.  Compression and reverb are the essential ones to learn.  After that, fiddle with EQ.
 
-I dislike mixing so I try to get things to sound good early on, rather than trying to 'fix it in the mix'. The fewer tracks I can use to get a good sound, the better.  Who wants to twiddle the levels on 24 tracks towards the end of a project?  Not me.  Remember: Sgt Peppers was recorded using four-track equipment.  Restrictions and limitations can push us to be more creative and rise to the challenge. Things tend to get more complicated as we build them.  Start as simple as possible.  **When in doubt, maintain simplicity.  Keep a handle on the thing.**
+I like playing music and I dislike mixing so I try to get things to sound good early on, rather than trying to 'fix it in the mix' later. The fewer tracks, the better.  Who wants to twiddle the levels on 24+ tracks towards the end of a project?  Not me.  I want to be writing the next album.
 
-It's good to be aware of trade-offs.  I think it's easier to get in a creative headpsace when your technology overhead is minimized.  Most modern music on the radio today sounds artificial and overproduced to me. Early Stones records sound more like the way music sounds in a room to my ears.  Natural.
+Sgt Pepper was recorded using four-track equipment.  Restrictions and limitations can push us to be more creative and rise to the challenge. **Things tend to get more complicated as we build them.  Start as simple as possible.  Maintain simplicity.  Keep a handle on the thing.**
 
-There is plenty of information out there these days.  The only way to learn is to jump in and experiment.  Enjoy making things sound fucked-up and awful.  Embrace failure and mistakes.  Be risky.  It's all part of the journey towards getting the sounds in your head.  Happy accidents will happen too.
+It's good to be aware of trade-offs.  Every decision affects the other parts of the process.  I think it's easier to get in a creative headpsace when your technology overhead is minimized.  Most modern music on the radio today sounds artificial and overproduced to me. Early Kinks records sound the way music sounds in a real room.  Natural. Don't underestimate the room!
+
+There is plenty of information out there.  The only way to learn is to jump in and experiment.  Enjoy making things sound fucked-up and awful.  Embrace failure and mistakes.  Be risky.  It's all part of the journey towards getting the sounds in your head.  Happy accidents will happen too.
 
 Capturing sounds is magic.  Chasing them has been worthwhile for me, a metaphor for soul-searching. Hope some of this helps!

@@ -26,7 +26,7 @@ How many mics to use at once?  I used to use lots of mics on drums.  Now I use o
 
 The amount of effects out there can be really overwhelming.  I think compression and reverb are the essential ones to learn.  After that, fiddle with EQ.
 
-I dislike mixing so I try to get things to sound good early on, rather than trying to 'fix it in the mix'. The fewer tracks I can use to get a good sound, the better.  Who wants to twiddle the levels on 24 tracks towards the end of a project?  Not me.  Remember: Sgt Peppers was recorded using four-track equipment.  Restrictions and limitations can push us to be more creative and rise to the challenge. Things tend to get more complicated as we build them.  Start as simple as possible.  When in doubt, maintain simplicity.  Keep a handle on the thing.
+I dislike mixing so I try to get things to sound good early on, rather than trying to 'fix it in the mix'. The fewer tracks I can use to get a good sound, the better.  Who wants to twiddle the levels on 24 tracks towards the end of a project?  Not me.  Remember: Sgt Peppers was recorded using four-track equipment.  Restrictions and limitations can push us to be more creative and rise to the challenge. Things tend to get more complicated as we build them.  Start as simple as possible.  **When in doubt, maintain simplicity.  Keep a handle on the thing.i**
 
 It's good to be aware of trade-offs.  I think it's easier to get in a creative headpsace when your technology overhead is minimized.  Most modern music on the radio today sounds artificial and overproduced to me. Early Stones records sound more like the way music sounds in a room to my ears.  Natural.
 

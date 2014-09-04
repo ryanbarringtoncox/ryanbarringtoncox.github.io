@@ -29,12 +29,12 @@ I don't think a slick, overproduced sound is a realistic goal when you are recor
 
 The amount of effects out there can be overwhelming.  Compression and reverb are the essential ones to learn.  After that, fiddle with EQ.
 
-I like playing music and I dislike mixing so I try to get things to sound good early on, rather than trying to 'fix it in the mix' later. The fewer tracks, the better.  Who wants to twiddle the levels on 24+ tracks towards the end of a project?  Not me.  I want to be writing the next album.
+I like playing music and I dislike mixing so I try to get things to sound good early on, rather than trying to 'fix it in the mix' later. The fewer the tracks, the better.  Who wants to twiddle the levels on 24+ tracks towards the end of a project?  Not me.  I want to be writing the next album.
 
 Sgt Pepper was recorded using four-track equipment.  Restrictions and limitations can push us to be more creative and rise to the challenge. **Things tend to get more complicated as we build them.  Start as simple as possible.  Maintain simplicity.  Keep a handle on the thing.**
 
-It's good to be aware of trade-offs.  Every decision affects the other parts of the process.  I think it's easier to get in a creative headpsace when your technology overhead is minimized.  Most modern music on the radio today sounds artificial and overproduced to me. Early Kinks records sound the way music sounds in a real room.  Natural. Don't underestimate the room!
+It's good to be aware of trade-offs.  Every decision affects the other parts of the process.  I think it's easier to get in a creative headpsace when your technology overhead is minimized.  Most modern music on the radio today sounds artificial and overproduced to me. Early Kinks records sound the way music sounds in a real room.  Natural. Keep it simple and don't underestimate the room!
 
-There is plenty of information out there.  The only way to learn is to jump in and experiment.  Enjoy making things sound fucked-up and awful.  Embrace failure and mistakes.  Be risky.  It's all part of the journey towards getting the sounds in your head.  Happy accidents will happen too.
+There is plenty of recording information out there, but the only way to learn is to jump in and experiment.  Enjoy making things sound fucked-up and awful.  Embrace failure and mistakes.  Be risky.  It's all part of the journey towards getting the sounds in your head.  Happy accidents will happen too.
 
-Capturing sounds is magic.  Chasing them has been worthwhile for me, a metaphor for soul-searching. Hope some of this helps!
+Capturing sound is magic.  Chasing sound has been worthwhile for me, a metaphor for soul-searching. Hope some of this inspires, helps or least offends!

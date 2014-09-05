@@ -17,11 +17,11 @@ comments: true
 
 My current recording setup is minimal.  That's partially due to taste and partially to time restrictions.  I use a Shure SM57 and an AT2035 condenser mic for almost everything.  The 57 is a magically durable mic that costs $100 and sounds great on all kinds of stuff.  I'd recommend the 57 if you use only one mic. 
 
-I record with Pro Tools software but that's only because I've gotten used to it and I know the keyboard shortcuts, can work quickly with it, etc. I'd recommend using something cheaper and easier like [Reaper](http://www.reaper.fm) if I were starting again. I plan to switch software someday soon.
+I record with Pro Tools software but that's only because I've gotten used to it and I know the keyboard shortcuts, can work quickly with it, etc. I recommend using something cheaper and easier like [Reaper](http://www.reaper.fm). I plan to switch software someday soon.
 
-How many mics to use at once?  Let's take the drums example as they are a beast to record.  I used to use lots of mics on drums.  Now I use one or two mics at most.  For me, the real trick is getting a good room sound.  Lots of wood and high ceilings are a plus.  If you get a great room sound to begin with, you don't have to do much later on. Early jazz and rock records were recorded minimally, with a few mics in a good-sounding room.  Newer records tend to utilize more mics placed closer to sound sources, with artificial reverbs and later.  I prefer the former aesthetic, partially because I love old records and partially because it's a simpler approach to mimic. Setting up one or two mics takes far less time so you're off and playing sooner.
+How many mics to use at once?  Let's take the drums example as they are a beast to record.  I used to use lots of mics on drums.  Now I use one or two mics at most.  For me, the real trick is getting a good room sound.  Lots of wood and high ceilings are a plus.  If you get a great room sound to begin with, you don't have to do much later on. Early jazz and rock records were recorded minimally, with a few mics in a good-sounding room.  Newer records tend to utilize more mics placed closer to sound sources, with artificial reverbs added later.  I prefer the former aesthetic because I love old records and because it's a simpler approach. Setting up one or two mics takes far less time so you're off and playing sooner.
 
-I don't think a slick, overproduced sound is a realistic goal when you are recording yourself at home with a minimal budget.  Besides, I prefer a workflow that allows me to work quickly and capture inspired performances. I love Alan Lomax recordings so I'm probably heavily biased here. 
+I'll just say it.  I don't think a slick, overproduced sound is a realistic goal when you are recording yourself at home with a minimal budget.  Besides, I prefer a workflow that allows me to work quickly and capture inspired performances. I love Alan Lomax recordings so I'm probably heavily biased here. 
 
 **Compression rules.**  I use compression on things that I want to stick out, like vocals and drums.  If you have any way to record to tape (even just a cassette), that's a great way to get compression.  There are plugins as well.  Experiment with tape if you can. Magical things happen when you record to tape, then dump it into a computer.  The waveforms sound (and look) different.
 
@@ -35,7 +35,9 @@ Sgt Pepper was recorded using four-track equipment.  Restrictions and limitation
 
 It's good to be aware of trade-offs.  Every decision affects the other parts of the process.  I think it's easier to get in a creative headpsace when your technology overhead is minimized.  You can spend more of your energy enjoying music and less on troubleshooting gear.
 
-Most modern music on the radio today sounds artificial and overproduced to me. Early Kinks records sound the way music sounds in a real room.  Natural. Keep it simple and don't underestimate the room! What records sound best to you?
+Most modern music on the radio today sounds artificial and overproduced to me. Early Kinks records sound the way music sounds in a real room.  Natural. Keep it simple and don't underestimate the room!
+
+What records sound best to you?
 
 There is plenty of recording information out there, but the only way to learn is to jump in and experiment.  Enjoy making things sound fucked-up and awful.  Embrace failure and mistakes.  Be risky.  It's all part of the journey towards getting the sounds in your head.  Happy accidents will happen too.
 

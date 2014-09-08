@@ -23,9 +23,7 @@ How many mics to use at once?  Let's take the drums example as they are a beast 
 
 Most modern music on the radio today sounds artificial and overproduced to me. Early Kinks records sound the way music sounds in a real room.  Natural. Keep it simple and don't underestimate the room.
 
-What records sound best to you?
-
-I'll just say it.  I don't think a slick, overproduced sound is a realistic goal when you are recording yourself at home with a minimal budget.  Besides, I prefer a workflow that allows me to work quickly and capture inspired performances. Not only that, but I often prefer the sounds produced by minimal recording setups (I love Alan Lomax recordings so I'm probably heavily biased here). 
+I don't think a slick, pristine sound is a realistic goal when you are recording yourself at home with a minimal budget.  Besides, I prefer a workflow that allows me to work quickly and capture inspired performances. Not only that, but I often prefer the sounds produced by minimal recording setups (I love Alan Lomax recordings so I'm probably heavily biased here). 
 
 **Compression rules.**  I use compression on things that I want to stick out, like vocals and drums.  If you have any way to record to tape (even just a cassette), that's a great way to get compression.  There are plugins as well.  Experiment with tape if you can. Magical things happen when you record to tape, then dump it into a computer.  The waveforms sound (and look) different.
 

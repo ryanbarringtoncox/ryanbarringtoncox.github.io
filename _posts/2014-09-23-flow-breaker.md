@@ -15,7 +15,7 @@ So what can I do?
 
 My conditioning says, "Step back.  Breathe.  Write a quick blog post.  Sing a song.  Sit with the nerves.  Watch the breath.  Stop resisting.  Open up the body, the mind, the awareness.  **Be ok with the way things are.**  Always make some time for the impractical, for things you enjoy.  Trust your gut about your needs."
 
-In college, I learned the most during times of tension.  When I was struggling and full of doubts, that’s when I evolved.  This is not a state to maintain full time, but it is the journey to the next plateau. I didn't see that back in college.  I'm Trying to see that now.
+In college, I learned the most during times of extreme tension.  When I was struggling and full of doubts, that’s when I evolved.  This is not a state to maintain full time, but it is the journey to the next plateau. I didn't see that back in college.  I'm trying to see that now.
 
 There are times when my flow gets broken.  My job is to keep showing up every day.  To keep at the center.  To keep a grip on [the things that matter most](/question-yourself/).
 

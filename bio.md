@@ -15,7 +15,7 @@ Music was my first calling, the first thing that knocked my socks off my toes an
 
 I spent most of my twenties writing and [recording music](http://ryanbarringtoncox.bandcamp.com), playing in [bands](http://ifyouwannas.bandcamp.com/), trying to score shows. Somewhere along the way I started combining art and technology. At first, this involved breaking broken things more and electrocuting myself.  Zap.  Ouch!  A little later, I figured out a few key concepts and found work repairing analog audio equipment.  That led to a position as head of service at [Moog Music](http://www.moogmusic.com/). I stayed there four or five years and learned a lot about electronics, synthesizers and the wonderful weirdos who make electronic music.
 
-In 2009, I fell into software as a lucky accident. That was a huge blessing, a much-needed renaissance in my life. Software and algorithms have changed my way of thinking.  Lately I’m spending more time thinking about how to do things, rather than just diving in and doing them blindly.  As a result, I feel like I’m struggling less and accomplishing more, which is a tasty paradox.
+In 2009, I fell into software as a lucky accident. That was a huge blessing, a much-needed renaissance in my life. Software and algorithms have changed my way of thinking.  **Lately I’m spending more time thinking about how to do things, rather than just diving in and doing them blindly.**  As a result, I feel like I’m struggling less and accomplishing more, which is a tasty paradox.
 
 Pondering change, process, techniques and habits. Evolving, bettering, trying to lean forward with tact.  That’s what I’ll be writing about here.
 

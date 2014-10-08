@@ -8,7 +8,7 @@ comments: true
 ---
 I played music with a guy in high school who said there are two kinds of musicians, those that write songs and those that play covers.  I disagreed with him then.  I disagree even more now.
 
-Learning and listening to other people’s music has been the single biggest catalyst for my songs.  Songs inspire songs, man!  Young Bob Dylan mimicked Woody Guthrie.  The Stones covered Howling Wolf and Robert Johnson.  **Hunter S Thomspon retyped all of *The Great Gatsby* and *A Farewell to Arms* to feel rhythm of a great novel under his fingertips.**
+Learning and listening to other people’s music has been the single biggest catalyst for my songs.  Songs inspire songs, man!  Young Bob Dylan mimicked Woody Guthrie.  The Stones covered Howling Wolf and Robert Johnson.  **Hunter S. Thompson retyped all of *The Great Gatsby* and *A Farewell to Arms* to feel rhythm of a great novel under his fingertips.**
 
 I love playing covers.  Getting a masterpiece under your fingertips.  In your chest.  Feeling it in real time.  There's nothing like it.  I can sit in a room alone, sing other people’s songs and feel content for hours.  What a gift.
 
@@ -16,11 +16,11 @@ Earlier this year, I started thinking about youtube and the rise of video conten
 
 I started out singing some of my songs into a laptop.  When I watched them back, it was painful.  I didn’t like the way I looked.  I doubted the song choices, the sound.  Ouch.
 
-After some trial and error, I decided to do covers.  This simplified the process because I don’t have to doubt the song choices.  I know the songs are great.  I put my favorite songwriter’s birthdays on a calendar and decided to do birthday tributes throughout the year.
+After some trial and error, I decided to do covers.  This simplified the process because I don’t have to doubt the song choices.  I know the songs are great.  I put my favorite songwriters' birthdays on a calendar and decided to do birthday tributes throughout the year.
 
 There was still the issue of how the videos looked.  Ever filmed yourself and watched it back?  It can feel brutal.  The same way I felt when I first started recording my voice.  I got used to that by confronting the insecurities, taking the risk and repeating the process.  I decided I would just start throwing video content out there, without over-thinking whether it’s great or not.  [Quantity produces quality](/plan-fail-reflect/) after all.
 
-The thing about the internet is people aren’t going to watch it if it’s terrible.  It just gets forgotten, swept away in the byte stream.  There’s nothing to lose by throwing up content.
+People aren’t going to watch it if it’s terrible.  It just gets forgotten, swept away in the byte stream.  There’s nothing to lose by throwing up content.
 
 **Put it out there.  Taste the risk of it.  Anybody can be a critic.**
 

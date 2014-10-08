@@ -8,7 +8,7 @@ comments: true
 ---
 I played music with a guy in high school who said there are two kinds of musicians, those that write songs and those that play covers.  I disagreed with him then.  I disagree even more now.
 
-Learning and listening to other people’s music has been the single biggest catalyst for my songs.  Songs inspire songs, man!  Young Bob Dylan mimicked Woody Guthrie.  The Stones covered Howling Wolf and Robert Johnson.  **Hunter S. Thompson retyped all of *The Great Gatsby* and *A Farewell to Arms* to feel rhythm of a great novel under his fingertips.**
+Learning and listening to other people’s music has been the single biggest catalyst for my songs.  Songs inspire songs, man!  Young Bob Dylan mimicked Woody Guthrie.  The Stones covered Howling Wolf and Robert Johnson.  **Hunter S. Thompson retyped all of *The Great Gatsby* and *A Farewell to Arms* to feel the rhythm of a great novel under his fingertips.**
 
 I love playing covers.  Getting a masterpiece under your fingertips.  In your chest.  Feeling it in real time.  There's nothing like it.  I can sit in a room alone, sing other people’s songs and feel content for hours.  What a gift.
 

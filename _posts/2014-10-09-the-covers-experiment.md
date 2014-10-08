@@ -22,11 +22,11 @@ There was still the issue of how the videos looked.  Ever filmed yourself and wa
 
 People aren’t going to watch it if it’s terrible.  It just gets forgotten, swept away in the byte stream.  There’s nothing to lose by throwing up content.
 
-**Put it out there.  Taste the risk of it.  Anybody can be a critic.**
+**Put it out there.  Taste the risk.  Anybody can be a critic.**
 
 I’m planning to do a couple videos each month for the next five years or so.  That’s about 100 videos.  **If I do 100 videos, something magical will happen along the way.**
 
-When we commit to producing something over and over again, we steadily improve.  I’ve already learned that outdoor lighting works best when you have no budget and minimal equipment.  This reminds me of recording audio and the realization that **you don’t need fancy equipment to make art.  You just need guts.  To take risks and keep at it.**
+When we produce something over and over again, we steadily improve.  I’ve already learned that outdoor lighting works best when you have no budget and minimal equipment.  This reminds me of recording audio and the realization that **you don’t need fancy equipment to make art.  You just need to experiment, take risks and keep at it.**
 
 Maybe I’ll start filming some of my own songs someday.  Right now, I’m having a blast doing these quick and dirty covers videos.  I love the discovery, the beginner's mind. I’m even starting to like that wince when I see myself on the tube.
 

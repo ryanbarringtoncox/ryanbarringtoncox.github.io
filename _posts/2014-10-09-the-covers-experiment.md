@@ -33,4 +33,5 @@ Maybe I’ll start filming some of my own songs someday.  Right now, I’m havin
 ---------------
 
 *PS Today is John Lennon's birthday.  Here's a Beatles cover*
-{% youtube oHg5SJYRHA0 %}
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/yvrOOr_mzSk" frameborder="0" allowfullscreen></iframe>

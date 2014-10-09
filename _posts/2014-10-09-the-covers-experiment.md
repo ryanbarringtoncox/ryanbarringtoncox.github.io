@@ -16,7 +16,7 @@ Earlier this year, I started thinking about youtube and the rise of video conten
 
 I started out singing some of my songs into a laptop.  When I watched them back, it was painful.  I didn’t like the way I looked.  I doubted the song choices, the sound.  Ouch.
 
-After some trial and error, I decided to do covers.  This simplified the process because I don’t have to doubt the song choices.  I know the songs are great.  I put my favorite songwriters' birthdays on a calendar and decided to do birthday tributes throughout the year.
+After some trial and error, I decided to do covers.  This simplified the process because I didn’t have to doubt the song choices.  I know the songs are great.  I put my favorite songwriters' birthdays on a calendar and decided to do birthday tributes throughout the year.
 
 There was still the issue of how the videos looked.  Ever filmed yourself and watched it back?  It can feel brutal.  The same way I felt when I first started recording my voice.  I got used to that by confronting the insecurities, taking the risk and repeating the process.  I decided I would just start throwing video content out there, without over-thinking whether it’s great or not.  [Quantity produces quality](/plan-fail-reflect/) after all.
 

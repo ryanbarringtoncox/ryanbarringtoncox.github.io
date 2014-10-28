@@ -12,6 +12,6 @@ I keep coming back to this idea of core priorities.  Given a blank slate, no noi
 
 Each time I revisit the list, I whittle it down a little more. It's kind of painful, cutting things out, quitting things to get more done.  I've realized that my biggest challenge is to slow down, do less, pause more and be present.  In order to get more done, I have to start doing less. 
 
-So what are my core priorities? I want to live healthier.  I want to be more present with my family and enjoy our time together.  Our daughter is almost three now.  It's going by quickly.  If I'm trying to record songs and program over the weekend, that eats into my opportunity to be present with my family.  I don't want to be distant when I'm reading my daughter books or listening to my wife's latest work adventure.  I need to cut back some of my goals and shelf them for later.  It's not an easy decision to make.
+So what are my core priorities? I want to live healthier.  I want to be more present with my family and enjoy our time together.  Our daughter is almost three now.  It's going by quickly.  If I'm trying to record songs and program over the weekend, that eats into my opportunity to be present with my family.  I don't want to be distant when I'm reading my daughter books or listening to my wife's latest work adventure.  I need to cut back my goals and shelf them for later.  It's not an easy decision to make.
 
-On my deathbed, I won't be wishing I had written one more song or computer program.  I'm sure that I won't regret a minute of family time either.
+The race is long.  On my deathbed, I won't be wishing I had written one more song or computer program.  I'm sure that I won't regret a minute of family time either.

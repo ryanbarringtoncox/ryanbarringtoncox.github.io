@@ -14,4 +14,4 @@ Each time I revisit the list, I whittle it down a little more. It's kind of pain
 
 So what are my core priorities? I want to live healthier.  I want to be more present with my family and enjoy our time together.  Our daughter is almost three now.  It's going by quickly.  If I'm trying to record songs and program over the weekend, that eats into my opportunity to be present with my family.  I don't want to be distant when I'm reading my daughter books or listening to my wife's latest work adventure.  I need to cut back some of my goals and shelf them for later.  It's not an easy decision to make.
 
-On my deathbed, I won't be wishing I had written one more song or computer program.  I'm sure that I won't regret a minute of my time invested in family either.
+On my deathbed, I won't be wishing I had written one more song or computer program.  I'm sure that I won't regret a minute of family time either.

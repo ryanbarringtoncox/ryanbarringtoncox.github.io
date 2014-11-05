@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Covers Experiment 
-description: "A beginner's thoughts on playing covers and DIY video content."
+description: "Thoughts on playing covers and DIY video content."
 modified: 2014-10-09
 tags: [covers,experimentation,music,video,art]
 comments: true

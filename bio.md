@@ -20,3 +20,5 @@ In 2009, I fell into software as a lucky accident. That was a huge blessing, a m
 Pondering change, process, techniques and habits. Evolving, bettering, trying to lean forward with tact.  That’s what I’ll be writing about here.
 
 I hope you enjoy reading some of these posts!
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/ASlKlFb6hXY" frameborder="0" allowfullscreen></iframe>

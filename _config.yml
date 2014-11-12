@@ -4,7 +4,8 @@ description:      It's blog.  It's blog.  It's fun for a girl or a boy.
 #url:              http://ryanbarringtoncox.github.io
 url:              http://ryanbarringtoncox.com
 #url:              http://localhost:4000 
-disqus_shortname: Ryan
+#disqus_shortname: Ryan
+disqus_shortname: 
 
 # Owner/author information
 owner:

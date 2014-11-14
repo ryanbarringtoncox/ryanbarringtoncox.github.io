@@ -39,7 +39,13 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-    </div><!-- /.article-wrap -->
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          {% include _author-bio.html %}
+          {% include _subscribe-form.html %}
+        </div>
+</div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}

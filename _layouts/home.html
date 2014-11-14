@@ -33,6 +33,7 @@
 <div id="main" role="main">
   <div class="article-author-side">
     {% include _author-bio.html %}
+    {% include _subscribe-form.html %}
   </div>
   {% for post in site.posts limit:1 %}    
   <article>
@@ -50,6 +51,7 @@
       <footer role="contentinfo">
         <div class="article-author-bottom">
           {% include _author-bio.html %}
+          {% include _subscribe-form.html %}
         </div>
       </footer>
 

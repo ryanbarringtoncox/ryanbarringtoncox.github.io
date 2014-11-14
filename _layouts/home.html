@@ -35,32 +35,32 @@
     {% include _author-bio.html %}
     {% include _subscribe-form.html %}
   </div>
-  {% for post in site.posts limit:1 %}    
   <article>
-    <div class="headline-wrap">
-      {% if post.link %}
-        <h1><a href="{{ post.link }}">{{ post.title }}</a>TEST</h1>
-      {% else %}
-        <h1><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h1>
-      {% endif %}
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap">
-      {{ post.content }}
-      {% include _view-all-posts.html %}
-      <hr />
-      <footer role="contentinfo">
-        <div class="article-author-bottom">
-          {% include _author-bio.html %}
-          {% include _subscribe-form.html %}
-        </div>
-      </footer>
+    {% for post in site.posts limit:3 %}    
+      <div class="headline-wrap">
+        {% if post.link %}
+          <h1><a href="{{ post.link }}">{{ post.title }} {{ post.date | date: '%m/%d/%Y' }}</</a></h1>
+        {% else %}
+          <h1><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }} {{ post.date | date: '%m/%d/%Y' }}</</a></h1>
+        {% endif %}
+      </div><!--/ .headline-wrap -->
+      <div class="article-wrap">
+        {{ post.content }}
+        <hr />
+        <footer role="contentinfo">
+          <div class="article-author-bottom">
+            {% include _author-bio.html %}
+            {% include _subscribe-form.html %}
+          </div>
+        </footer>
 
-    </div><!-- /.article-wrap -->
-  {% if site.disqus_shortname and post.comments %}
-    <section id="disqus_thread"></section><!-- /#disqus_thread -->
-  {% endif %}
-  </article>
+      </div><!-- /.article-wrap -->
+    {% if site.disqus_shortname and post.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
   {% endfor %}
+  {% include _view-all-posts.html %}
+  </article>
 </div>
 <!-- /#main -->
 

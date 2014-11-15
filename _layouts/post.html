@@ -45,6 +45,7 @@
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
       {{ content }}
+      {% include _view-all-posts.html %}
       <hr />
       <footer role="contentinfo">
         <div class="article-author-bottom">
@@ -52,7 +53,6 @@
           {% include _subscribe-form.html %}
         </div>
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time> by <a href="{{ site.url }}/bio" title="Bio {{ site.owner.name }}">{{ site.owner.name }}</a>.</p>
-        {% include _view-all-posts.html %}
       </footer>
     </div><!-- /.article-wrap -->
   {% if site.disqus_shortname and page.comments %}

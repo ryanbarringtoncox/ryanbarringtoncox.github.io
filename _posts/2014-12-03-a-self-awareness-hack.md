@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Self-Awareness Hack"
-description:  
+description: "A self-awareness thought exercise inspired by David Schwartz." 
 modified: 2014-12-03
 comments: true
 ---

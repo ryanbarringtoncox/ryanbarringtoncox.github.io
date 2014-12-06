@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simple"
+title: "Simplicity"
 description: "More is less."
 modified: 2014-12-06
 comments: true

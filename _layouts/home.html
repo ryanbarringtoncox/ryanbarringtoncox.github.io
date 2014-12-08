@@ -30,9 +30,6 @@
       <div class="article-wrap">
         {{ post.content }}
       </div><!-- /.article-wrap -->
-    {% if site.disqus_shortname and post.comments %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    {% endif %}
   {% endfor %}
    {% include _view-all-posts.html %}
    <hr />

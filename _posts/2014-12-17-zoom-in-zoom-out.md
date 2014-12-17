@@ -12,7 +12,7 @@ Some of us are planners and strategists, planners and plotters.  Always thinking
 
 ##The close up.
 
-How do I feel in this moment? Interacting with this person? Eating this food?  How do I feel today?
+How do I feel in this moment? Interacting with this person? Eating this food?
 
 Some of us are continually swept away in the moment.  Bliss, sorrow, hunger, love.
 
@@ -30,5 +30,5 @@ Zooming out regularly.  Getting the high level view.  Checking in with my health
 
 Zooming back in to this moment, wading into the slipstream of now.
 
-Shifting smoothly from macro to micro is an art I yearn to learn.
+**Shifting smoothly from macro to micro is an art I yearn to learn.**
 

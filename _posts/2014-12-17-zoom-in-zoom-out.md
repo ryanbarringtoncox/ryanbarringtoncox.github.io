@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zoom in. Zoom out."
-description: "I believe in reflecting and planning often.  We steer our destiny with resolve and intent.  I also believe that the richest, most rewarding experiences are happening right now.  Only in this moment.  There’s a balance at play."
+description: "I believe in reflecting and planning often.  I also believe that the richest, most rewarding experiences are happening right now.  Only in this moment.  There’s a balance at play."
 comments: true
 ---
 ##The big picture.

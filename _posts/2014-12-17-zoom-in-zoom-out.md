@@ -8,7 +8,7 @@ comments: true
 
 What do I want my life to look like in ten years?  Five years?  One year?  How do I move in that direction?
 
-Some of us are planners and strategists, planners and plotters.  Always thinking ahead.
+Some of us are planners and strategists, always thinking ahead.
 
 ##The close up.
 
@@ -20,13 +20,13 @@ Some of us are continually swept away in the moment.  Bliss, sorrow, hunger, lov
 
 How well do I toggle between the big picture and the small?
 
-**I believe in reflecting and planning often.  We steer our destiny with resolve and intent.**
+I believe in reflecting and planning often.  We steer our destiny with resolve and intent.
 
-**I also believe that the richest, most rewarding experiences are happening right now.  Only in this moment.**
+I also believe that the richest, most rewarding experiences are happening right now.  Only in this moment.
 
 There’s a balance at play.
 
-Zooming out regularly.  Getting the high level view.  Checking in with my health, education and career.
+Zooming out regularly.  Getting the high level view.  Checking in with my health, marriage and career.
 
 Zooming back in to this moment, wading into the slipstream of now.
 

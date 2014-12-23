@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Public speaking and living With fear"
-description: "Confronting fear is a good habit to get into.  It pays off across the board."
+description: "I joined a public speaking club this year because I’ve always been afraid of public speaking."
 comments: true
 ---
 I joined a public speaking club this year because I’ve always been afraid of public speaking.

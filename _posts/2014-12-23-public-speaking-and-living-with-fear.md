@@ -16,6 +16,10 @@ I have to be able to express, speak, communicate in that old school way (of open
 
 Most people have a deep fear of public speaking.  They avoid it.  I did.  **Eventually I realized that living with the fear of public speaking takes more effort than confronting said fear.**
 
+Avoiding public speaking, holding onto the nerves, feeling low when I spoke at a work meeting and it didn't go well...  these things were eating at me.
+
+Taking on the dragon has given me more confidence.
+
 If you’re reading this and you live in the Asheville area, feel free to come visit our public speaking club some Thursday evening. It's fun. You can email me for more info.
 
 Takeaway for the year:  **Confronting fear is a good habit to get into.  It pays off across the board.**

@@ -21,16 +21,12 @@
   <article>
     {% for post in site.posts limit:3 %}    
       <div class="headline-wrap">
-        {% if post.link %}
-          <h2><a href="{{ post.link }}">{{ post.title }} {{ post.date | date: '%m/%d/%Y' }}</</a></h2>
-        {% else %}
-          <h2><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }} {{ post.date | date: '%m/%d/%Y' }}</</a></h2>
-        {% endif %}
+          <h2><a href="{{ site.url }}">{{ post.title }} {{ post.date | date: '%m/%d/%Y' }}</a></h2>
       </div><!--/ .headline-wrap -->
       <div class="article-wrap">
         {{ post.content }}
       </div><!-- /.article-wrap -->
-  {% endfor %}
+    {% endfor %}
    {% include _view-all-posts.html %}
    <hr />
    <footer role="contentinfo">

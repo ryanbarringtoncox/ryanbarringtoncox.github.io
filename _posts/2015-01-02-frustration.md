@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frustration"
-description: "When you're frustrated, stop what you're doing."
+description: "When we’re feeling frustrated, let’s stop what we’re doing and step back."
 comments: true
 ---
 When we're feeling frustrated, let's stop what we're doing and step back.

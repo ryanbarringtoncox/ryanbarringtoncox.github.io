@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keeping it DRY"
-description: "{DRY: 'Don't Repeat Yourself'}"
+description: "{'DRY': 'Don't Repeat Yourself'}"
 Comments: true
 ---
 DRY is a popular acronym in the programming world.  It stands for "Don’t Repeat Yourself."

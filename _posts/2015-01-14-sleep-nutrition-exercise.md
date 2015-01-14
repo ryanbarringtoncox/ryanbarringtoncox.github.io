@@ -22,4 +22,4 @@ Sometimes it’s tempting to pull an all-nighter and work late, but this can wre
 
 ----------
 
-*Disclaimer: I write this as a lover of beer and chicken wings!  All things in moderation.  I’m just noticing that I enjoy these indulgences more when I’m setting a healthy baseline.*
+*Disclaimer: I write this as a lover of beer and chicken wings!  All things in moderation.  I am, however, noticing that I enjoy these indulgences more when I’m setting a healthy baseline.*

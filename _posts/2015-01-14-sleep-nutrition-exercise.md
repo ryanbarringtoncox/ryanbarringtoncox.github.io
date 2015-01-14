@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sleep Nutrition Exercise
-description: "Keeping sleep, nutrition and exercise in order can create a positive domino effect."
+description: "Keeping sleep, nutrition and exercise in order can create a positive domino effect. I say this as a lover of beer and chicken wings"
 comments: true
 ---
 Sleep, Nutrition and Exercise.

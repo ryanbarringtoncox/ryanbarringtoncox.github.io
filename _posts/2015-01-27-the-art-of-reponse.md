@@ -6,7 +6,7 @@ comments: true
 ---
 When I wrote a post called ["The Art of Reaction"](/the-art-of-reaction), my wife said she’d rather the post be called "The Art of Response".  **Well, what is the difference between reacting and responding?**
 
-I looked up definitions of response and reaction.  Each word uses the another to define itself. There is certainly some overlap between their meanings. There are differences too.
+I looked up definitions of the words, response and reaction.  Each word uses the another to define itself. There is certainly some overlap between their meanings. There are differences too.
 
 -------
 

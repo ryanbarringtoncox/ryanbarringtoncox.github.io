@@ -3,6 +3,8 @@ layout: post
 title: The Art of Response
 description: What is the difference between reacting and responding?*
 comments: true
+redirect_from:
+  - /the-art-of-reponse/ 
 ---
 When I wrote a post called ["The Art of Reaction"](/the-art-of-reaction), my wife said she’d rather the post be called "The Art of Response".  **Well, what is the difference between reacting and responding?**
 

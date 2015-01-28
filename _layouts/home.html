@@ -19,15 +19,12 @@
     {% include _subscribe-form.html %}
   </div>
   <article>
-    {% for post in site.posts limit:3 %}    
       <div class="headline-wrap">
-        <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {{ post.date | date: '%m/%d/%Y' }}</a></h2>
+        <h1>Trail of Sparks</h1>
       </div><!--/ .headline-wrap -->
       <div class="article-wrap">
-        {{ post.content }}
+        {{ content }}
       </div><!-- /.article-wrap -->
-    {% endfor %}
-   {% include _view-all-posts.html %}
    <hr />
    <footer role="contentinfo">
     <div class="article-author-bottom">

@@ -406,10 +406,13 @@ body {
 	// Dotted line underlines for links
 	p > a,
 	li > a {
-		border-bottom: 1px dotted lighten(@link-color, 50);
-		&:hover {
-			border-bottom-style: solid;
-		}
+    color: @link-color-article;
+		border-bottom: 1px solid @link-color-article;
+	}
+	p > a:visited,
+	li > a:visited {
+    color: @link-color-article-visited;
+		border-bottom: 1px solid @link-color-article-visited;
 	}
 	p > a.reversefootnote, 
 	li > a.reversefootnote {

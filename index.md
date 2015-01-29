@@ -13,15 +13,15 @@ I've spent a lot of time writing privately.  This blog is an experiment with [be
 
 --------
 
-###Some other things on this site
+###Recent Posts
+<ul>
+  {% for post in site.posts limit: 5 %}  
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
-- [All my blog posts](/posts)
-- [Biographical info](/bio)
-- [DIY music videos](/music)
-- [Why I blog](/meta-blog)
-- [A rant on emotional awareness](/emotional-awareness/)
-
--------
+{% include _view-all-posts.html %}
+_______
 
 ###Some things from/about me hosted elsewhere on the internet
 

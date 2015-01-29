@@ -19,18 +19,14 @@ I've spent a lot of time writing privately.  This blog is an experiment with [be
 - [Biographical info](/bio).
 - [DIY music videos](/music).
 - [Why I blog](/meta-blog).
-- [A rant on emotional awareness](/emotional-awareness/)
+- [A rant on emotional awareness](/emotional-awareness/).
 
 -------
 
 ###Some things from/about me hosted elsewhere on the internet -
 
 - [My audio albums](https://ryanbarringtoncox.bandcamp.com/) (music I recorded at home with lots of instruments).
-- [More youtube videos of my music](https://www.youtube.com/user/ryanbarrybarrry)
+- [More youtube videos of my music](https://www.youtube.com/user/ryanbarrybarrry).
 - [A review of my last album, *Pool*](http://allimarshall.tumblr.com/post/73630833953/playing-pool-with-ryan-barrington-cox).
-- [An article about a humorous speech contest that I won in the Fall of 2014](https://mountainx.com/blogwire/asheville-toastmasters-club-436-members-take-prizes-in-nc-district-competition/)
-- [A website I recently built for my Ice Cream Shop Friends](http://thehopicecreamcafe.com/)
-
--------
-
-I hope you find some of the content here useful and/or entertaining.
+- [An article about my humorous speech contest experience, Fall of 2014](https://mountainx.com/blogwire/asheville-toastmasters-club-436-members-take-prizes-in-nc-district-competition/).
+- [A website I built for my Ice Cream Shop Friends](http://thehopicecreamcafe.com/).

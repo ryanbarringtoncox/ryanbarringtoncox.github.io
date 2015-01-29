@@ -13,7 +13,7 @@ I've spent a lot of time writing privately.  This blog is an experiment with [be
 
 --------
 
-###Some other things on this site -
+###Some other things on this site
 
 - [All my blog posts](/posts).
 - [Biographical info](/bio).
@@ -23,7 +23,7 @@ I've spent a lot of time writing privately.  This blog is an experiment with [be
 
 -------
 
-###Some things from/about me hosted elsewhere on the internet -
+###Some things from/about me hosted elsewhere on the internet
 
 - [My audio albums](https://ryanbarringtoncox.bandcamp.com/) (music I recorded at home with lots of instruments).
 - [More youtube videos of my music](https://www.youtube.com/user/ryanbarrybarrry).

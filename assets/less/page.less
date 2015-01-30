@@ -241,7 +241,6 @@ body {
 		margin: 0;
 		padding-bottom: .5em;
 		.font-rem(28);
-		border-bottom: 1px solid lighten(@black,70);
 	}
 	article {
 		h2 {
@@ -401,6 +400,14 @@ body {
 			max-width: 150px;
 		}
 	}
+}
+a.color-link {
+    color: @link-color-article !important;
+		border-bottom: 1px solid @link-color-article !important;
+}
+a.color-link:visited {
+    color: @link-color-article-visited;
+		border-bottom: 1px solid @link-color-article-visited;
 }
 .article-wrap {
 	// Dotted line underlines for links

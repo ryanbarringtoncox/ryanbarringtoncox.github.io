@@ -79,6 +79,15 @@ module.exports = function(grunt) {
         'assets/css/main.min.css',
         'assets/js/scripts.min.js'
       ]
+    },
+    validation: {
+      options: {
+        reset: grunt.option('reset') || false,
+        stoponerror: false,
+      },
+      files: {
+        src: ['_site/*.html']
+    }
     }
   });
 
@@ -90,6 +99,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-recess');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-svgmin');
+  grunt.loadNpmTasks('grunt-html-validation');
 
   // Register tasks
   grunt.registerTask('default', [
@@ -97,7 +107,8 @@ module.exports = function(grunt) {
     'recess',
     'uglify',
     'imagemin',
-    'svgmin'
+    'svgmin',
+    'validation'
   ]);
   grunt.registerTask('dev', [
     'watch'

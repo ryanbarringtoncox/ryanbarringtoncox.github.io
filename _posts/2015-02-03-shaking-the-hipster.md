@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shaking the Hipster
-description:
+description: The energy I put into love pays back ten fold against showing up for hipster culture.
 comments: true
 ---
 I tried to be cool for twenty years and I think that I actually got close to being cool for a few minutes there (though I'd be the last to know).  **Now that I'm moving further away from coolness every day, I couldn't be more content.**
@@ -22,4 +22,4 @@ I may never know if the whole hipster thing is a miserable sham or it just wasn�
 
 **Now I realize that seeking the approval of any group is a dead-end drain, especially if that group makes me feel unwelcome or unloved.**
 
-The best part of giving up coolness is I’m getting back to the person I was when I was a kid.  Raw, unfiltered, real me.  The payoff is the chance to get back into childhood enthusiasm full throttle.  **Laughter, tantrums and love are the pulp of life.**
+The best part of giving up coolness is I’m getting back to the person I was when I was a kid.  Raw, unfiltered, real me.  The payoff is the opportunity to get back into childhood enthusiasm full throttle.  **Laughter, tantrums and love are the pulp of life.**

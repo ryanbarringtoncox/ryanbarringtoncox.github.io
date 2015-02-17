@@ -12,8 +12,8 @@ I don’t claim to be an expert on this topic, but I did win [3rd place in a sta
 
 Below are some tips that have helped me write speeches.  I plan to work them into my upcoming speech.
 
-1.  **Pick a topic that I can talk about for longer than the speech length.**  If I have too much to say, then that’s a great starting point.  It’s easier to chisel away and remove from the topic than it is to add filler.  If I can say a lot, that means I'm excited about the topic and know something about it.
-2.  **Have a point.**  If someone asks me, “What’s the point of your speech?” I should have a deliberate, concise answer.  No mumbling or rambling or thinking.  Ever heard a speaker that rambles on for a long time and you have no idea what their point was afterwards?  Yeah, me too ; )
+1.  **Pick a topic that I can riff for longer than the speech length.**  If I have too much to say, then that’s a great starting point for a song or speech.  It’s easier to chisel away and remove from the topic than it is to add filler.  If I can say a lot, that means I'm excited about the topic and know something about it.
+2.  **Have a point.**  If someone asks me, “What’s the point of your speech?” I should have a deliberate, concise answer.  Ever heard a speaker that rambles on for a long time and you have no idea what their point was afterwards?  Yeah, me too ; )
 3.  **Always keep form in mind**.  A good speech generally has a beginning, a middle and an end.  A great speech usually wraps back around at the end and references something from the beginning, with a twist or new perspective. Contour matters.
 4.  **The opening line has to draw in the audience**.  Do I start with a question, a joke, something absurd or unexpected?  This is a crucial moment to set the tone. First impressions count.
 5.  **The last line has to bring it home**.  Hit hard at the end and leave an impression that stays with them.

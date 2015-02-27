@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Risking Embarrassment
-description: "I'm starting to see the embarrassment-riskers as the true heroes, the ones that take life the farthest."
+description: "I'm starting to see the embarrassment-riskers as the true heroes."
 comments: True
 ---
 I spent a couple decades running from embarrassment. I'm pretty sure this started when I left the innocence of Elementary School behind.
@@ -26,4 +26,4 @@ Risking embarrassment makes my pulse quicken.  It makes me feel alive.
 
 **I'm starting to see the embarrassment-riskers as the true heroes, the ones that take life the farthest.**
 
-So I've started to risk embarrassment more often and I've yet to regret it. In fact, my regrets tend to stem from avoiding risk, not confronting it.
+I've started risking embarrassment and I've yet to regret it. In fact, my regrets tend to stem from avoiding risk, not confronting it.

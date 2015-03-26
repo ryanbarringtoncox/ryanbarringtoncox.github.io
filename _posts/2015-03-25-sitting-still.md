@@ -27,6 +27,6 @@ Every day.
 --------
 
 *“Do you have the patience to wait*
-*Till your mud settles and the water is clear?*
+*till your mud settles and the water is clear?*
 *Can you remain unmoving*
-*Till the right action arises by itself?”* - Lao Tzu
+*till the right action arises by itself?”* - Lao Tzu

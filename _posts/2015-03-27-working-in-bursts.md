@@ -26,4 +26,4 @@ Set a ritual and do a little bit every day.
 
 Once I started writing daily, I started seeing ideas everywhere.  The well is deep and it's all around us if we listen, pay attention and describe what we're seeing and feeling honestly.
 
-It's a pleasure and a privilege to filter these ideas through my brain.  No telling how long the streak will last, but I hope you're enjoying some of these short pieces in the mean time!
+It's a pleasure and a privilege to filter these ideas through me.  No telling how long the streak will last, but I hope you're enjoying some of these short pieces in the mean time!

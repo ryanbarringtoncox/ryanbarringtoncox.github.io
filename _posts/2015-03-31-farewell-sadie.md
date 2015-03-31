@@ -18,7 +18,7 @@ Sadie was long-legged and athletic.  She loved to run and jump through the Appal
 
 In the last year or so, Sadie's back legs started giving out due to hip dysplasia.  She kept fairly active until these past few months, when she could barely go on walks.  It was hard to watch her lose her mobility. The pain killers and anti-inflammatory pills helped ease her suffering for a little while.
 
-Sadie was not only my friend and companion, but a teacher too.  She taught me about loyalty and heart.  She taught me about nonverbal communication and the pleasures of shared comfortable silence.  Sadie would've given her life for anyone in our family without a moment's hesitation.  That's love.  She always reminded me that food is good and should be enjoyed too.
+Sadie was not only my friend and companion, but a teacher too.  She taught me about loyalty and heart.  She taught me about nonverbal communication and the pleasures of shared comfortable silence.  Sadie would've given her life for anyone in our family without a moment's hesitation.  That's love.
 
 Thank you, Sadie, for all the laughter, love, fun and now a healthy dose of tears.
 

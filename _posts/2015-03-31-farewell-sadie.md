@@ -3,7 +3,7 @@ layout: post
 title: Farewell Sadie
 description: Sadie was mostly German Shepherd. Everybody had different guesses about the other breeds inside her. 
 comments: true
-image: sadie.jpg
+image: sadie-alert.jpg
 image-caption: "Sadie Cox. 2002-2015."
 ---
 Today I'm saying goodbye to my loyal companion of the past 13 years.  Sadie was the most beautiful dog I've ever seen.  That's why I picked her, despite her tendency to bark loudly and jump on people.

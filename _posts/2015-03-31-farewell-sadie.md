@@ -10,7 +10,7 @@ Today I'm saying goodbye to my loyal companion of the past 13 years.  Sadie was 
 
 Sadie was mostly German Shepherd.  We know that much.  Everybody who met her had their own ideas about other breeds inside her. 
 
-Sadie was very large and protective.  Even as a cat-sized puppy, she could make thunderous sounds.  She had to personally inspect every person that entered our house, by sniffing them and looking them in the eye.
+Sadie was very large and protective.  Even as a cat-sized puppy, she had a thunderous bark.  She had to personally inspect every person that entered our house, by sniffing them and looking them in the eye.
 
 Despite her intimidating nature, Sadie never bit anybody (thought she startled many!).  I always felt safe with Sadie by my side, whether we were in the city, the countryside or the woods.
 

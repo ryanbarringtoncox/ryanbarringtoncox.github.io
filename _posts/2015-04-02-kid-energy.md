@@ -17,8 +17,8 @@ We can challenge ourselves to see each day, person and experience as new because
 
 We can surely sleep more if we make it a priority.
 
-The biggest eye-opener for me has been the importance of  emotional awareness. Emotions are vital to our overall health.  My daughter is teaching me to laugh and cry more often, more openly.  This is rich stuff.
+The biggest eye-opener for me has been the importance of  emotional awareness. Emotions are vital to our overall health and quality of life.  My daughter is teaching me to laugh and cry more often, more openly.  This is rich stuff.
 
-I marvel at the energy that why daughter has.  She falls hard and gets right back up.  She's a pliant, limber lover of life.  A rabbit runs through our yard and her eyes widen with passionate interest as she yells, "RABBIT!".
+I marvel at the energy that my daughter has.  She falls hard and gets right back up.  She's a pliant, limber lover of life.  A rabbit runs through our yard and her eyes widen with passionate interest as she yells, "RABBIT!".
 
 She's right. Rabbits are amazing creatures.  There is a lot to be learned from kid energy.

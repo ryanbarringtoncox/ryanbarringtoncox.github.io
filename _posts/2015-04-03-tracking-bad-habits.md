@@ -14,7 +14,7 @@ It's worth the pain though.  Tracking bad habits will get you to notice them mor
 
 There's something magical about acknowledging your flaw, putting it on your daily radar.
 
-**You don't even have to try to do the bad habit less.  Just right it down.  And keep at it.**
+**You don't even have to try to do the bad habit less.  Just write it down.  And keep at it.**
 
 Tracking bad habits has worked wonders for me.  The important thing is to be diligent (and of course, you have to want to change the habit in the first place).
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch the Breathe
+title: Watch the Breath
 description: Can you sit, watch your breath and keep from getting distracted?  For how long?
 comments: true
 ---

@@ -11,7 +11,7 @@ This is another post on meditation, which has changed my life for the better.  Y
 While you're sitting there watching your breath,
 
   1. Sit cross-legged on the floor or in a chair with your hands on your lap. I prefer the latter as it's easier on my knees.
-  2. Sit up straight. Be alert and dignified without being rigid. Sit with dignity.
+  2. Sit up straight. Be alert without being rigid. Sit with dignity.
   3. Close your eyes.
   4. Listen to any sounds that you hear. Feel the temperature. Bring awareness to any smells, sounds, sensations.
   5. Feel the weight of your body. How are you feeling today? Any discomfort anywhere?

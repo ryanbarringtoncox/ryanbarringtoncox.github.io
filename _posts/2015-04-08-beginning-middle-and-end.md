@@ -10,7 +10,7 @@ The more I become aware of the ways others craft winning ideas, the more I notic
 
 **Great ideas have definition.  I'm seeing a distinct beginning, middle and end in great works.**
 
-Whether it's a blog post, speech, song, joke or move dialogue, I see this rule of three.
+Whether it's a blog post, speech, song, joke or movie dialogue, I see this rule of three.
 
   1. Lead off with a strong beginning.  State your idea right away.  Get their attention.  Reel them in.
 

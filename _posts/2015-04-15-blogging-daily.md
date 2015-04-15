@@ -8,7 +8,7 @@ Four weeks ago I realized that I wasn't blogging very often.  I'd fallen out of 
 
 The best way to overcome writer's block is to write every day.  Quit listening to the inner critic, make a commitment to yourself and start cranking it out.  I've said it before and I'll say it again:  **Quantity produces quality.** (There's a [mantra](/mantras) for you).
 
-While I can't be objective about my own writing, I do feel that I created more quality pieces by writing daily for four weeks than I would have writing weekly, even if I spent the whole week reflecting and editing the weekly piece.
+While I can't be objective about my own writing, I do feel that I have created more quality pieces writing daily for four weeks than I would have by writing weekly, even if I spent the whole week reflecting and editing the weekly piece.
 
 In the first case, I wrote twenty eight posts.  In the latter, I would have written only four.
 

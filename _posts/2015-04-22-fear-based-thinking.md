@@ -10,9 +10,9 @@ It's taken me several decades to realize that hopeful intentions work better for
 
 **I can steer my fate by changing my attitude.**
 
-There is still a voice within me that nags me, especially on my weaker days.  "Don't take the risk.  Stay safe.  Keep your head low.  You might lose what you've got!" it says.
+There is still a voice within that nags me, especially on my weaker days.  "Don't take the risk.  Stay safe.  Keep your head low.  You might lose what you've got!" it says.
 
-This voice is always with me and it breeds fear which can turn to paralysis.  I've made [habits](/tracking-good-habits) to keep this voice from conquering me (this blog is one of them) and learned a few things in the process.
+This voice is always with me and it can bread fear that turns to paralysis.  I've made [habits](/tracking-good-habits) to keep this voice from conquering me (this blog is one of them) and learned a few things in the process.
 
   - Movement is life.
   - Evolution is growth.
@@ -25,4 +25,4 @@ I'm talking about keeping fear-based thinking at bay.
 
 We are all products of the environments that we grew up in.  As adults, it's up to us to decide which ideologies to embrace and which ones to cast to the wind.
 
-One of my life missions is to get over fear-based thinking and hit the ground running.
+One of my life missions is to get over the fear-based-thinking hurdle and hit the ground running.

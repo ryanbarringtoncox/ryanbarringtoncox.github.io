@@ -21,8 +21,8 @@ This voice is always with me and it can bread fear that turns to paralysis.  I'v
 
 When I write about [risk](/risking-embarrassment) and [stability](/stability), I'm not advocating recklessness.  I'm not saying that we should throw opportunities away, leave a job without lining up the next one or take what we have for granted.
 
-I'm talking about keeping fear-based thinking at bay.
+**I'm talking about keeping fear-based thinking at bay.**
 
 We are all products of the environments that we grew up in.  As adults, it's up to us to decide which ideologies to embrace and which ones to cast to the wind.
 
-One of my life missions is to get over the fear-based-thinking hurdle and hit the ground running.
+**One of my life missions is to get over the fear-based-thinking hurdle and hit the ground running.**

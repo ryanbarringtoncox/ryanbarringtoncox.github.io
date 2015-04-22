@@ -12,7 +12,7 @@ It's taken me several decades to realize that hopeful intentions work better for
 
 There is still a voice within that nags me, especially on my weaker days.  "Don't take the risk.  Stay safe.  Keep your head low.  You might lose what you've got!" it says.
 
-This voice is always with me and it can bread fear that turns to paralysis.  I've made [habits](/tracking-good-habits) to keep this voice from conquering me (this blog is one of them) and learned a few things in the process.
+This voice is always with me and it can breed fear that turns to paralysis.  I've made [habits](/tracking-good-habits) to keep this voice from conquering me (this blog is one of them) and learned a few things in the process.
 
   - Movement is life.
   - Evolution is growth.

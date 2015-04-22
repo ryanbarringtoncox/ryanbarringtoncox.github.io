@@ -6,7 +6,7 @@ comments: true
 ---
 I grew up with fear-based thinking.
 
-It's taken me several decades to realize that setting hopeful intentions works better for me.  I enjoy my days and achieve more when I **choose** to be optimistic about risks, change and the unknowns ahead.
+It's taken me several decades to realize that hopeful intentions work better for me.  I enjoy my days and achieve more when I **choose** to be optimistic about risks, change and the unknowns ahead.
 
 **I can steer my fate by changing my attitude.**
 

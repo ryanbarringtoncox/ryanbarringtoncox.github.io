@@ -13,7 +13,7 @@ I've spent a lot of time writing privately.  This blog is an experiment in [writ
 ###Recent Posts
 <ul>
   {% for post in site.posts limit: 5 %}  
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {{ post.date | date: '%m/%d' }}</a></li>
   {% endfor %}
 </ul>
 

@@ -10,7 +10,7 @@ If you're working hard to master something, you're probably getting better at it
 
 As you get more immersed in something, you notice more details. As you notice more details, you see more flaws. 
 
-You can use this evolving inner critic to hone your craft finer.
+This evolving inner critic can help you hone your craft.
 
 This critic can also get you down and destroy your confidence. He might even encourage you to quit from time to time.
 

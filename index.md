@@ -6,7 +6,7 @@ This site currently hosts [my blog](/posts) and some [music videos](music).
 
 You may have wound up here because you tried to find my old website, **ryanbarringtoncox.com**. That site doesn't exist right now.
 
-I've spent a lot of time writing privately.  This blog is an experiment in [writing publicly](/meta-blog/), [becoming healthier](/sleep-nutrition-exercise/), [not repeating myself](/keeping-it-dry/), [confronting fear](/public-speaking-and-living-with-fear/), [changing](/shifting-intent/) and [finding flow](/flow-breaker/).
+This blog is an experiment in [lateral thinking](/lateral-thinking), [writing publicly](/meta-blog/), [becoming healthier](/sleep-nutrition-exercise/), [not repeating myself](/keeping-it-dry/), [confronting fear](/public-speaking-and-living-with-fear/), [changing](/shifting-intent/) and [finding flow](/flow-breaker/).
 
 --------
 

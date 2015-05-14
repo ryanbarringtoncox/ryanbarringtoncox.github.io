@@ -2,11 +2,11 @@
 layout: home
 title: "Welcome to Trail of Sparks!"
 ---
-This site currently hosts [my blog](/posts) and some [music videos](music).
+This site hosts [my blog](/posts) and some [music videos](music).
 
-You may have wound up here because you tried to find my old website, **ryanbarringtoncox.com**. That site doesn't exist right now.
+The blog is an experiment in [lateral thinking](/lateral-thinking), [carving the block](carving-the-block), and [writing publicly](/meta-blog/).
 
-This blog is an experiment in [lateral thinking](/lateral-thinking), [writing publicly](/meta-blog/), [becoming healthier](/sleep-nutrition-exercise/), [not repeating myself](/keeping-it-dry/), [confronting fear](/public-speaking-and-living-with-fear/), [changing](/shifting-intent/) and [finding flow](/flow-breaker/).
+The videos are a celebration of [change](/change), [not repeating myself](/keeping-it-dry/), and [confronting fear](/public-speaking-and-living-with-fear/).
 
 --------
 
@@ -27,5 +27,5 @@ _______
 - [A review of my last album, *Pool*](http://allimarshall.tumblr.com/post/73630833953/playing-pool-with-ryan-barrington-cox)
 - [An article about my humorous speech contest experience, Fall of 2014](https://mountainx.com/blogwire/asheville-toastmasters-club-436-members-take-prizes-in-nc-district-competition/)
 - [A command line lyrics-grabber](https://github.com/ryanbarringtoncox/command_line_lyrics)
-- [A website I built for my Ice Cream Shop Friends](http://thehopicecreamcafe.com/)
 - [A command line program that shuffles up lyrics into a collage](https://github.com/ryanbarringtoncox/lyric-shuffler)
+- [A website I built for my Ice Cream Shop Friends](http://thehopicecreamcafe.com/)

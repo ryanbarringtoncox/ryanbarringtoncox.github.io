@@ -4,7 +4,6 @@ title: A Friendly Reminder
 description: "This is a friendly reminder."
 comments: true
 ---
-------
 “This is a friendly reminder.”
 
 Is it really?

@@ -11,11 +11,11 @@ I read Jon's excellent book, *Wherever You Go, There You Are*, fifteen years ago
 
 This idea of awareness as a vessel is ringing truer than ever lately.
 
-If you read these posts, you know that I think a lot.  Too much, perhaps.  I love getting excited about ideas and process. It's my nature.
+If you read these posts, you know that I think a lot.  Too much, perhaps.  I love getting excited about ideas and process. It's in my nature.
 
 I also know that my thoughts are not reality.  I meditate daily to cultivate awareness, to keep a sense of the larger context.  Awareness holds everything that I perceive, including my thoughts.
 
-**The more thinking I do, the more important it is to step back and become aware.**
+**The more thinking I do, the more I need to step back and become aware.**
 
 To become aware of my breath, body and emotions.
 
@@ -23,7 +23,7 @@ To become aware of the limits of my thinking.
 
 To remember that my thoughts are only thoughts.
 
-Thinking is a powerful tool, but awareness encompasses far more.
+Thinking is a powerful tool, but awareness encompasses more.
 
 **If I had to choose between intelligence and awareness, I'd choose awareness.**
 

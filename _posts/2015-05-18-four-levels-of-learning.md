@@ -4,7 +4,7 @@ title: Four Levels of Learning
 description: James Bach's Four Levels of Learning resonate with me.
 comments: true
 ---
-[James Bach](http://en.wikipedia.org/wiki/James_Marcus_Bach) is a software tester, author and speaker.  There are several excellent [youtube videos](https://www.youtube.com/watch?v=SAhJf36_u5U) of his presentations online. James may be abrasive but his ideas are top notch.
+[James Bach](http://en.wikipedia.org/wiki/James_Marcus_Bach) is a software tester, author and speaker.  There are several excellent [youtube videos](https://www.youtube.com/watch?v=SAhJf36_u5U) of his presentations online. James' ideas are edgy and top notch.
 
 I was especially smitten by James' **Four Levels of Learning**.  James breaks the learning process down into four subsequent levels.  Here are my notes on James' Four Levels.
 

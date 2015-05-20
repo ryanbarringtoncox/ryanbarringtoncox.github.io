@@ -13,7 +13,7 @@ The videos are a celebration of [change](/change), [not repeating myself](/keepi
 ###Recent Posts
 <ul>
   {% for post in site.posts limit: 5 %}  
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {{ post.date | date: '%m/%d' }}</a></li>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {{ post.date | date: '%m/%d/%Y' }}</a></li>
   {% endfor %}
 </ul>
 

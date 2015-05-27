@@ -8,7 +8,7 @@ When I look over the posts in this blog, I see patterns.  These are the ideas th
 
 If you’re like me, you only learn when you're enthusiastically interested.  Without enthusiasm, I’ll be sleepy and unfocused in no time.  I’ll do a half-assed job.
 
-**When I learn what excites me, I learn how I learn. This is Meta Learning**
+**When I learn what excites me, I learn how I learn. This is Meta Learning.**
 
 It's useful to learn how I learn because my style of learning is unique, as is yours.  We don’t necessarily learn the way teachers teach.
 
@@ -30,8 +30,8 @@ In high school, I realized that sitting through math lectures was pointless.  Wh
   - Flip the pages. 
   - Repeat. 
     
-This approach kept me awake, and I figured out the problems.  Up until the age of fifteen or sixteen, I had inherently assumed that teachers knew how to teach us all.  They didn't.  Nowadays, I’m wary of deferring my learning approach to others.
+This approach kept me awake, and I solved the problems.  Up until the age of fifteen or sixteen, I had inherently assumed that teachers knew how to teach us all.  They didn't.  Nowadays, I’m wary of deferring my learning approach to others.
 
 **Meta Learning may be the most valuable skill to learn.**
     
-Do you know how you learn?  If you don’t, start by asking, “What excites me?”  Then go from there.
+Do you know how you learn?  If you don’t, start by asking, “What excites me?” then go from there.

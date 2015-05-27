@@ -12,7 +12,7 @@ If you’re like me, you only learn when you're enthusiastically interested.  Wi
 
 It's useful to learn how I learn because my style of learning is unique, as is yours.  We don’t necessarily learn the way teachers teach.
 
-In grade school I wasn't learning to read as quickly as the other kids.  Was that because of my developmental pace? Or the way reading was being taught?  Some of other factor? It would have been easy to conclude that I would never be a strong reader or writer (screw that!).
+In grade school I wasn't learning to read as quickly as the other kids.  Was that because of my developmental pace? Or the way reading was being taught?  Some other factor? It would have been easy to conclude that I would never be a strong reader or writer (screw that!).
 
 Let’s not to assume that teachers know how to teach us.  If we find a teacher that resonates with us, that’s fantastic.  Hold on to that teacher!  In general though, it can be dangerous to follow a developmental checklist laid out by someone else.
 

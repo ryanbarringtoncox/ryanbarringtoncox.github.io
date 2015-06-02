@@ -6,7 +6,7 @@ comments: true
 ---
 Sometimes the path of least resistance is the path of most resistance.
 
-The path of least resistance is the quickest, easiest way to achieve something, right?
+The path of least resistance is the quickest, easiest way to get somewhere, right?
 
 Often times, the quickest and easiest way to reach a **longterm** goal is to endure stress, [challenges](/people-who-challenge-us) and [threats](/threat).
 

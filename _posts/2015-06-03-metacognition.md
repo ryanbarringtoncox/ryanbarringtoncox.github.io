@@ -16,11 +16,11 @@ Many of my posts here deal with Metacognition, though I've only started using th
 
   - Simply asking, "[How do I think?](/how-to-think)" and "What thinking approaches have worked the best?" has yielded wonderful results.
   - My mind likes to [alternate](/alternating-current) between producing and consuming.
-  - [Confusion](/confusion-confidence) can feel unpleasant at first, but pushing through it often results it breakthroughs.
+  - [Confusion](/confusion-confidence) can feel unpleasant at first, but pushing through it often results in breakthroughs.
   - [Meditation](/thoughts-on-meditation) helps greatly with Metacognition. Sit and be aware of the mind.  Watch it.  Understand it.
   - I absorb more info when I [hang loose](/hang-loose).
 
-I love it when I find a new term that for an [idea](/ideas-man) I've had.  It tells me I'm onto something and there is more to be gleaned.
+I love it when I find a new term for an [idea](/ideas-man) I've had brewing.  It tells me I'm onto something and there is more to be gleaned.
 
 **Let's seek to understand our own minds and thought processes better. That's what Metacognition is all about.**
 

@@ -24,8 +24,8 @@ Take it easy, Ryan! It's going to be alright.  Seriously.
 
 **I accomplish more when I take my time.**
 
-One of the worst things I can do is rush, feel rushed, be rushed, let rushing get the best of me.
+I need not rush, feel rushed, be rushed or let rushing get the best of me.
 
-It’s far better to lean into confusion with a relaxed attitude and the willingness to take breaks often.
+It’s far better to lean into confusion with a relaxed attitude and the willingness to take breaks early and often.
 
 Go slowly.  Go relaxedly.  That's how I'll accomplish the most.

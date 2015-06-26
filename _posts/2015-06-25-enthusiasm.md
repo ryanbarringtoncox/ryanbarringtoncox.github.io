@@ -14,6 +14,6 @@ There are always off-days where I'm tired and unfocused, but I can't afford to b
 
 Life is too short to waste on apathy.
 
-It's too short to pretend that I care.
+It's too short to pretend that I care (when I don't).
 
 Let's keep an eye on our enthusiasm and move closer to the work that inspires it.

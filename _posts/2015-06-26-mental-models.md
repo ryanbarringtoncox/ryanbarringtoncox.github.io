@@ -29,4 +29,4 @@ I carry these models around with me.
 
 Each mental model that I build is my unique vision, my personal understanding of a system.
 
-**My heroes are have their own understandings of the world. They have unique vision.  I want to be like them.  Mental modeling helps with this.**
+**My heroes are people with their own understanding of the world. They have unique vision.  I want to be like them.  Mental modeling helps with this.**

@@ -31,10 +31,10 @@ Professional life can be just the opposite.  Some of us work the same job, the s
 
 I'd argue that staying in the same position for more than five years is no longer the way to play the career game (but that's a topic for another post).
 
-The world is changing quickly.
+The world changes quickly.
 
 Life's too short to stay stagnant, routine or safe.  
 
-And besides, we are built for [change](/change). Just like nature.
+**We are built for [change](/change). Just like nature.**
 
-**Transition is a wonderful reminder to reflect, renew and grow.**
+Transition is a wonderful reminder to reflect, renew and grow.

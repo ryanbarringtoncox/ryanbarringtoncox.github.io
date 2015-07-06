@@ -35,6 +35,6 @@ The world changes quickly.
 
 Life's too short to stay stagnant, routine or safe.  
 
-**We are built for [change](/change). Just like nature.**
+**We are built for [change](/change), just like nature.**
 
 Transition is a wonderful reminder to reflect, renew and grow.

@@ -16,9 +16,9 @@ Here are some specific things that I've learned from (and about) blogging.
  - Only write about things that inspire, interest and move you. [Enthusiasm](/enthusiasm) is the great secret.
  - Write for yourself. If anybody else enjoys a post, that's an unexpected bonus.
  - Everyday life is filled with [interesting nuggets](/tension).  Writing gets you in the habit of noticing and appreciating.
- - Don't play it safe.  If you're nervous about writing something, you're onto something worthwhile.
+ - Don't play it safe.  If you're nervous about writing it, you're onto something worthwhile.
 
-If you're wondering if you should blog or not, the answer is "Yes, you should!"
+If you're wondering if you should blog, the answer is "Yes, you should!"
 
 This blog has opened doors and I'm excited to see where they lead.
 

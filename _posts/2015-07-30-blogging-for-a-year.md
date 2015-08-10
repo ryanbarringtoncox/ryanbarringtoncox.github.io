@@ -18,8 +18,6 @@ Here are some specific things that I've learned from (and about) blogging.
  - Everyday life is filled with [interesting nuggets](/tension).  Writing gets you in the habit of noticing and appreciating.
  - Don't play it safe.  If you're nervous about writing it, you're onto something worthwhile.
 
-If you're wondering if you should blog, the answer is "Yes, you should!"
-
 This blog has opened doors and I'm excited to see where they lead.
 
 Thanks for reading.

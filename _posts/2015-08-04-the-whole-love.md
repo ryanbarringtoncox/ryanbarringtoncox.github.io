@@ -18,7 +18,7 @@ Breaking life into discrete pieces helps me manage the complexity of the Whole. 
 
 What about the relationships and interactions between the pieces?
 
-This connective tissue may difficult to reason about, but it is certainly part of the Whole experience (perhaps most of it?).
+This connective tissue may be difficult to reason about, but it is certainly part of the Whole experience (perhaps most of it?).
 
 The Whole is a beautiful bouncing organic creature beyond reason, dissection and absolute understanding.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have a Point
-description: 
+description: Have a point.  A point fits neatly into one concise sentence.
 comments: true
 ---
 Want to connect?

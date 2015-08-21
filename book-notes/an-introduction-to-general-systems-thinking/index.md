@@ -263,6 +263,7 @@ To cope with unfamiliar, complex systems we can -
   - Get a broad, complete view of all that interests us.
   - Get a minimal view of states.
   - Get an independent view that decomposes observed states into simpler noninteracting qualities.
+\\
 
 **It’s too much for our minds to have every moment be a completely new, incomparable thing so we look for general models we can carry around.**
 \\

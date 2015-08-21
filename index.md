@@ -4,6 +4,8 @@ title: "Welcome to Trail of Sparks!"
 ---
 This site hosts [my blog](/posts) and some [music videos](music).
 
+It's an [experiment](/vitality/) in seeking a more [enjoyable](enthusiasm/) life.  Topics include [love](/ten-posts-on-love/), [health](/sleep-nutrition-exercise/), [thinking differently](/metacognition/), confronting [fear](/fear-based-thinking/) and [more](/watching-the-storm/).
+
 --------
 
 ###Recent Posts

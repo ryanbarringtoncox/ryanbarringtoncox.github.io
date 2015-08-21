@@ -40,8 +40,8 @@ links:
     url: /posts/
   - title: Music
     url: /music/
-  - title: Bio
-    url: /bio/
+  - title: Book Notes
+    url: /book-notes/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

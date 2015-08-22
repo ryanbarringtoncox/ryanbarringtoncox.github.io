@@ -2,7 +2,7 @@
 layout: home
 title: "Welcome to Trail of Sparks!"
 ---
-This [blog](/posts) seeks [joy](enthusiasm/) from life through [love](/ten-posts-on-love/), [health](/sleep-nutrition-exercise/), [thinking differently](/metacognition/), [confronting fear](/fear-based-thinking/) and [more](/watching-the-storm/).
+This [blog](/posts) seeks [joy](enthusiasm/) from [life](/vitality) through [love](/ten-posts-on-love/), [health](/sleep-nutrition-exercise/), [thinking differently](/metacognition/), [confronting fear](/fear-based-thinking/) and [more](/watching-the-storm/).
 
 --------
 

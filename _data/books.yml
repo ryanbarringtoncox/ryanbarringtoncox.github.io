@@ -1,0 +1,8 @@
+---
+- title: An Introduction to General Systems Thinking - by Gerald M. Weinberg
+  url: an-introduction-to-general-systems-thinking 
+  teaser: This 1975 book grew from Weinberg's popular college course on General Systems Theory.  The course didn't fit into any department (perhaps it was too "general").  It's revolutionized the way I think and is full of amazing insights, thought experiments, poetic quotes and nuggets like "If we want to learn anything, we mustn’t try to learn everything."
+
+- title: The Art of Unix Programming - by Eric S. Raymond 
+  url: the-art-of-unix-programming 
+  teaser: Unix chops are akin to jedi skills.  Unix conventions are the oldest surviving practices of hacker culture, due to in part to simple and versatile design methodology.  This excellent book describes unix coding practices in detail and is *probably* only for hackers (prove me wrong non-hackers!).  "Constructive laziness is one of the cardinal virtues of the master programmer.”

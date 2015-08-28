@@ -39,11 +39,10 @@
   <h1>{{ page.title }}</h1>
     {{ content }} 
     <article>
-      <a class="color-link" href="/book-notes/an-introduction-to-general-systems-thinking" title="">An Introduction to General Systems Thinking - by Gerald M. Weinberg</a>
-        <p>
-        This 1975 book grew from Weinberg's popular college course on General Systems Theory.  The course didn't fit into any department (perhaps it was too "general").  It's revolutionized the way I think and is full of amazing insights, thought experiments, poetic quotes and nuggets like "If we want to learn anything, we mustn’t try to learn everything."
- 
-        </p>
+      {% for book in site.data.books %}
+      <a class="color-link" href="/book-notes/{{ book.url }}" title="">{{ book.title }}</a>
+        <p>{{ book.teaser }}</p>
+      {% endfor %}
     </article>
 </div><!-- /#index -->
 

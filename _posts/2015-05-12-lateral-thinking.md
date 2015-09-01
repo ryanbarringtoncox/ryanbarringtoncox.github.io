@@ -36,4 +36,4 @@ Lateral Thinking notes to self:
 **Agile, not rigid.**
 
 ---
-*PS The new songs mentioned above will be released later this year or early 2016.*
+*PS The new songs mentioned above can be heard [here](https://ifyouwannas.bandcamp.com/album/higher-than-low).

@@ -10,3 +10,7 @@
 - title: The Art of Unix Programming - by Eric S. Raymond 
   url: the-art-of-unix-programming 
   teaser: Unix chops are the Jedi skills of hacker culture. Unix was built on the virtues of elegance, simplicity and versatility.  This excellent book describes Unix coding practices in detail and is *probably* only for hackers (prove me wrong non-hackers!).  "Constructive laziness is one of the cardinal virtues of the master programmer.” - Raymond
+
+- title: The Art of Software Testing - by Glenford J Myers
+  url: the-art-of-software-testing
+  teaser: Software testing is a relatively new field.  Few people agree on how to do it "right."  This book is considered to be a classic on the subject.

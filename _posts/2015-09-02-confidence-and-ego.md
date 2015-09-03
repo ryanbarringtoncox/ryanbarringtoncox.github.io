@@ -10,7 +10,7 @@ When I can feel their ego pressing on me, that's a turn-off.  Ego makes me less 
 
 The line between ego and confidence gets thin sometimes.
 
-Ego makes it about you and pushes us away.
+Ego makes it about them and pushes us away.
 
 Confidence draws us in and leads us.
 

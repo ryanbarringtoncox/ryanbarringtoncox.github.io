@@ -20,6 +20,6 @@ Humiliation is red, raw and direct. She's talking to you. Listen.
 
 Tell a humiliating story after some time has passed and it's funny.
 
-Go and gather up some humiliation.
+Go gather up some humiliation.
 
-**Humiliation ages like wine.**
+**Humiliation can age like wine.**

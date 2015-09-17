@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Humiliation
-description: Humiliation ages like wine.
+description: Humiliation can age like wine.
 comments: true
 ---
 Nothing burns quite like humiliation.

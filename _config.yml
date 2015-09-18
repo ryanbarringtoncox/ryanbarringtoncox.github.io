@@ -38,8 +38,6 @@ bing_verify:
 links:
   - title: Posts
     url: /posts/
-  - title: Music
-    url: /music/
   - title: Book Notes
     url: /book-notes/
 

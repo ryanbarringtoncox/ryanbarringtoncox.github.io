@@ -39,7 +39,7 @@ links:
   - title: Book Notes
     url: /book-notes/
   - title: RSS
-    url: feed.xml
+    url: /feed.xml/
   - title: Etc
     url: /etc/
 

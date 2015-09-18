@@ -38,8 +38,10 @@ bing_verify:
 links:
   - title: Book Notes
     url: /book-notes/
-  - title: Other Things
-    url: /other-things/
+  - title: RSS
+    url: feed.xml
+  - title: Etc
+    url: /etc/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

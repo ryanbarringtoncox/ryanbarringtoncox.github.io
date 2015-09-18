@@ -27,7 +27,3 @@ Please note: I'm not advocating that we make the same mistakes again and again. 
 I'm betting every successful person has a series of "new" mistakes under their belt.
 
 Let's raise our glasses to new mistakes and give thanks.
-
----
-
-To my email subscribers:  Speaking of mistakes, I just realized that relative links (links to pages within my site) have been broken via email. Oops!  They should be working now ([testing?!]({{ site.url }}/book-notes)).  If anything seems broken, please "reply" and let me know.  I'd like to know about my mistakes asap, thanks!

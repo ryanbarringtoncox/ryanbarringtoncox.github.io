@@ -37,11 +37,11 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Book Notes
-    url: /book-notes/
+    url: /book-notes
   - title: RSS
-    url: /feed.xml/
+    url: /feed.xml
   - title: Etc
-    url: /etc/
+    url: /etc
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

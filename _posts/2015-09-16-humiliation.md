@@ -16,7 +16,9 @@ Venture out of your comfort zone and humiliation may bite.
 
 You can learn more from humiliation than most college courses.
 
-Humiliation is red, raw and direct. She's talking to you. Listen.
+Humiliation is red, raw and direct. She's talking to you.
+
+Listen.
 
 Tell a humiliating story after some time has passed and it's funny.
 

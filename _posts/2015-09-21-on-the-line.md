@@ -14,9 +14,9 @@ I'll wonder, "What happened?  Did I show something that wasn't truly me? Do they
 
 Questions like this can drive me crazy.  Targets are moving.  Success is fleeting.  Answers are scarce.
 
-When we bear our souls, we put ourselves up for judgement.  Judgement hurts and that's part of the ride.
+When I bear my soul, I put myself up for judgement.  Judgement can hurt and that's part of the ride.
 
-I tend to think it's worthwhile to put our souls on the line, take as much failure as we can and gather feedback.
+I tend to think it's worthwhile to put my soul on the line, take as much failure as I can and gather feedback.
 
 There's no need to succeed all the time.  Connection is a wonderful high.  Failure is a longterm investment.
 

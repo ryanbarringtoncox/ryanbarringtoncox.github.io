@@ -38,8 +38,6 @@ bing_verify:
 links:
   - title: Book Notes
     url: /book-notes
-  - title: RSS
-    url: /feed.xml
   - title: Etc
     url: /etc
 

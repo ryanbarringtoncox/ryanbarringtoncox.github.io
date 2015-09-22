@@ -44,12 +44,12 @@
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
       {% if year != nyear %}
+        <hr>
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
     <article>
-      <a class="color-link" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }} {{ post.date | date: '%m/%d/%Y' }}</a>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+      <a class="color-link" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.date | date: '%m/%d' }} : {{ post.title }}</a>
     </article>
   {% endfor %}
 </div><!-- /#index -->

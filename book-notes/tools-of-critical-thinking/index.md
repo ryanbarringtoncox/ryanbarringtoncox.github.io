@@ -216,79 +216,101 @@ Interestingly, we tend to reverse the Fundamental Attribution Error when we anal
 \\
 \\
 **Cognitive Biases** come from shortcuts.  Our brains can’t process everything that’s happening so we end up focusing on the person moving around (and not all the things moving around them because that’s too much to comprehend).
-
-Motivational Biases come from our need to feel in control and make sense of the world.  It’s hard to accept unjust, horrible things so we assign blame to people instead of circumstances.
-
-Author’s takeaway:  Never underestimate the environment!
-
+\\
+\\
+**Motivational Biases** come from our need to feel in control and make sense of the world.  It’s hard to accept unjust, horrible things so we assign blame to people instead of circumstances.
+\\
+\\
+**Author’s takeaway:  Never underestimate the environment as a cause!**
+\\
+\\
 Perhaps a pill, or some other biological solution, alleviates a patient’s suffering.  This does not necessarily mean the cause of their suffering is biological in nature.
+\\
+\\
+**Correlation is not the same as cause.**  We often confuse the two.
 
-Correlation is not the same as cause.  We often confuse the two.
-
-If my car won’t start and I put gasoline in it, then the lack of gasoline was the cause.
-
-If moving to a new house alleviates my depression, it may or may not be the new house that has cured me.  There may be a correlation between the house-swap and my mood, but other factors are probably at play too (roommate, neighborhood, privacy, new-ness, etc).
+  - If my car won’t start and I put gasoline in it, then the lack of gasoline was the cause.
+  - If moving to a new house alleviates my depression, it may or may not be the new house that has cured me.  There may be a correlation between the house-swap and my mood, but other factors are probably at play too (roommate, neighborhood, privacy, new-ness, etc).
 
 Notice the difference between physical, mechanical things (car, gasoline) in that example versus human emotion (depression, moving) which are complex constructs.
-
+\\
+\\
 We often confuse results with intent.  i.e.  If we feel hurt by someone that doesn’t necessarily mean they intended to hurt us.
-
+\\
+\\
 “You don’t return my calls and that hurts my feelings!  Therefore your intent must be to hurt my feelings.”
-
+\\
+\\
 The result of an action does not necessarily prove the cause.  Always consider alternate intents for a given cause.
-
+\\
+\\
 Feelings and veracity (truth) are orthogonal.  We can 
 
-Feel good about something true.  i.e. I got an “A” on the exam.
-Feel bad about something true.  i.e.  I have a drug problem.
-Feel good about something false.  i.e. Deny that our girlfriend is cheating on us.  Feel good about an untruth.
-Feel bad about something false.  i.e.  Everyone is out to get me!
+  - Feel good about something true.  i.e. I got an “A” on the exam.
+  - Feel bad about something true.  i.e.  I have a drug problem.
+  - Feel good about something false.  i.e. Deny that our girlfriend is cheating on us.  Feel good about an untruth.
+  - Feel bad about something false.  i.e.  Everyone is out to get me!
 
 A co-worker accuses you of theft.  You react with strong negative emotions.  This doesn’t necessarily mean it’s true.  If it is true and you did steal, you might have the same reaction.
-
-Feelings are not proof of the truth.
-
+\\
+\\
+**Feelings are not proof of the truth.**
+\\
+\\
 Extraordinary events aren’t always caused by extraordinary causes.  You think of a song then it comes on the radio.  How many times has this happened to you?  How many times have you thought of a song that didn’t come on the radio?  How many times have you turned on the radio and heard a song you didn’t think of?
-
+\\
+\\
 Lots of things are happening all the time.  Statistically, it makes sense that extraordinary things will happen once in a while.
 
 #### Investigation, Describing, Thinking
 
 **Deductive Reasoning** starts with a general premise and works towards a specific instance.  i.e.  All dogs have four legs.  Therefore, the dog Fido has four legs.
-
+\\
+\\
 Deductive Reasoning is flawed if the general premise is untrue.  DR is also flawed if the premise is true and the subsequent logic is circular.  The book gives this example.
 
-  All men are mortal.
-  Socrates is a man.
-  Therefore all men are Socrates.
+  - All men are mortal.
+  - Socrates is a man.
+  - Therefore all men are Socrates.
 
 **Inductive Reasoning** starts with a specific instance and works up towards a general premise.  IR is also referred to as **data-driven** reasoning.
-
+\\
+\\
 Scientists use Inductive Reasoning by gathering lots of data, looking for patterns and then constructing a general theory or law that satisfies what they’ve found.
-
+\\
+\\
 Inductive Reasoning may fail when we haven’t gathered adequate data and we over-generalize.  i.e.  All the Frenchmen I know are thieves, therefore Pierre, who I haven’t met yet, is a thief.
-
-“The scientific method is based on tampering with what would be happening if we were doing nothing to it.” - R.D. Laing
-
+\\
+\\
+**“The scientific method is based on tampering with what would be happening if we were doing nothing to it.” - R.D. Laing**
+\\
+\\
 When we observe something, we change it.  This is especially true of Social Sciences.  People act differently when they are observed.
-
+\\
+\\
 Electric Workers were observed to see what factors would increase their work performance.  Researchers found that no matter what they changed - no breaks, later quit times - the workers performed better.  A reactive effect had occurred.  The workers performed better because someone was paying attention.
-
+\\
+\\
 Are reality shows showing reality?  No, they are showing people who know they’re being observed.  Who knows what these people are “really” like.
-
+\\
+\\
 The self-fulfilling prophecy is prevalent.  Children in classes and even rats in mazes were shown to perform better when the teachers/researchers were told certain kids/rats were more skilled (though they were chosen at random).  Expecting something to be so makes it so.  Of course, the person observing the observers may have been expecting to see the self-fulfilling prophecy and made that so too ; )
-
+\\
+\\
 We carry mental “schemas” (aka models) that help us reason about all the stimuli around us.  When we encounter something that contradicts our schemas we can either:
 
-Acommodate the new information and update our schema.
-Alter or ignore the new information so it fits our pre-existing schema.
+  - Accommodate the new information and update our schema.
+  - Alter or ignore the new information so it fits our pre-existing schema.
 
 The latter, called **Assimilation Bias** is far more common.  We “see,” interpret and accept things that agree with what we expect more often.  We also ignore, skew, mis-remember things that don’t agree with our beliefs/schemas.
-
-“More that believing what we see, we tend to see what we believe.”
-
+\\
+\\
+**“More that believing what we see, we tend to see what we believe.”**
+\\
+\\
 We should be aware that we want to see things that agree with our schemas.  When an observation doesn’t agree, take note and work to assimilate the new information into a stronger schema (rather than disregarding the new info).
-
+\\
+\\
 “The psychiatrist’s eagerness to find mental illness wherever he looks is matched only by his reluctance to define mental illness.” - Thomas Szasz
 
 

@@ -7,6 +7,10 @@
   url: an-introduction-to-general-systems-thinking 
   teaser: This 1975 book grew from Weinberg's popular college course on General Systems Theory.  The course didn't fit into any department (perhaps it was too "general").  This book is full of insights, thought experiments and poetic nuggets like "If we want to learn anything, we mustn’t try to learn everything."
 
+- title: Tools of Critical Thinking - by David A. Levy
+  url: tools-of-critical-thinking
+  teaser: How often do we think about how we think?  This book explores metathinking and highlights common pitfalls and workarounds.
+
 - title: The Art of Unix Programming - by Eric S. Raymond 
   url: the-art-of-unix-programming 
   teaser: Unix was built on virtues of elegance, simplicity and versatility.  This book describes Unix coding philosophy in detail and is *probably* only for hackers (prove me wrong non-hackers!).  "Constructive laziness is one of the cardinal virtues of the master programmer.” - Raymond
@@ -14,7 +18,3 @@
 - title: The Art of Software Testing - by Glenford J Myers
   url: the-art-of-software-testing
   teaser: Software testing is a relatively new field.  Few people agree on how to do it "right."  Some consider this book to be a classic on the subject.  It's brief, general and not tied to any particular trend or technology.
-
-- title: Tools of Critical Thinking - by David A. Levy
-  url: tools-of-critical-thinking
-  teaser: How often do we think about how we think?  This book explores metathinking and highlights common pitfalls and workarounds.

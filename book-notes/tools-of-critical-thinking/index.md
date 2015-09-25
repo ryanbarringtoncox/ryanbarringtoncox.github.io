@@ -316,8 +316,17 @@ We should be aware that we want to see things that agree with our schemas.  When
 \\
 "Please don't confuse me with the facts!"
 \\
-\\Another common bias, the Hindsight Bias, happens when we think we knew what was going to happen after the fact.  For example, we have proverbs for all kind of contradictory I-told-you-so-isms. The book gives several examples.
+\\
+Another common bias, the Hindsight Bias, happens when we think we knew what was going to happen after the fact.  For example, we have proverbs for all kind of contradictory I-told-you-so-isms. The book gives several examples.
 
   - "Out of site, out of mind" vs. "Distance makes the heart grow fonder."
   - "No evil can happen to a good man" vs "Nice guys finish last."
   - "Haste makes waste" vs "He who hesitates is lost." 
+
+We overgeneralize based on vivid examples.  For example, the loud religious extremists are more vivid and memorable than the silent majority and we often overgeneralize based on them. Vivid, memorable testimonials from a few people sway us more than comprehensive statistics from hundreds of people on paper.
+\\
+\\
+Understanding something isn't solving it.  After years of therapy, you discover that you are afraid to open up emotionally and trust.  While discovering this may be helpful, it doesn't automatically remedy it! This is a common fallacy.
+\\
+\\
+Every decision, however small, is a trade-off.  Take stock of what you're giving up when you choose something.

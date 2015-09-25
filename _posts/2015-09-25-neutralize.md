@@ -18,8 +18,6 @@ Reacting to aggressive energy with more aggression seldom ends well.
 
 Energy and time are precious commodities, not to be wasted.
 
-I have pushed back by default too often.
-
 **Push less.**
 
 **Neutralize more.**

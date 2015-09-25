@@ -312,6 +312,12 @@ We should be aware that we want to see things that agree with our schemas.  When
 \\
 \\
 “The psychiatrist’s eagerness to find mental illness wherever he looks is matched only by his reluctance to define mental illness.” - Thomas Szasz
+\\
+\\
+"Please don't confuse me with the facts!"
+\\
+\\Another common bias, the Hindsight Bias, happens when we think we knew what was going to happen after the fact.  For example, we have proverbs for all kind of contradictory I-told-you-so-isms. The book gives several examples.
 
-
-
+  - "Out of site, out of mind" vs. "Distance makes the heart grow fonder."
+  - "No evil can happen to a good man" vs "Nice guys finish last."
+  - "Haste makes waste" vs "He who hesitates is lost." 

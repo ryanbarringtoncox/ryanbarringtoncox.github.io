@@ -6,7 +6,7 @@ One of my biggest pet peeves is working with people who don't pull their weight.
 
 Here's something I keep re-discovering and re-forgetting:  **I can't get people to do things they don't want to do.**
 
-Getting mad at a slacker yields no fruit. It just adds a coat of agony to the situation. It seals in the misery.
+Getting mad at a slacker yields no fruit. It adds a coat of agony to the situation. It seals in the misery.
 
 I'm better off focusing on what I can control: My actions and responses.
 

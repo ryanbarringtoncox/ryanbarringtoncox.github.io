@@ -13,7 +13,7 @@ I'm better off focusing on my actions and responses.
 Notes to self:
 
   - Stop judging
-  - Get into the work
+  - Get to work
   - Find flow
   - *Be* the change
 

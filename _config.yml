@@ -37,7 +37,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Posts
-    url: /
+    url: /posts
   - title: Book Notes
     url: /book-notes
   - title: Etc

@@ -1,6 +1,6 @@
 ---
 title: Neutralize
-layout: page
+layout: post
 ---
 Sometimes I push back on the people that push me.
 

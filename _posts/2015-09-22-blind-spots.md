@@ -1,6 +1,6 @@
 ---
 title: Blind Spots
-layout: page
+layout: post
 ---
 I wrote a speech on Parenthood months ago.  It was about the paradox of parenthood - how glorious love is and also how much it hurts.
 

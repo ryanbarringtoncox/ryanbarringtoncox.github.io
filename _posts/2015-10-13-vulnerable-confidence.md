@@ -1,6 +1,8 @@
 ---
 title: Vulnerable Confidence
-layout: page
+layout: post
+description:  Here is my description.
+comments: true
 ---
 Confidence may seem hard.
 

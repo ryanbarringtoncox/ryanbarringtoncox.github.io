@@ -1,6 +1,6 @@
 ---
 title: Pulling Weight
-layout: page
+layout: post
 ---
 One of my biggest pet peeves is working with people who don't pull their weight.  I have been known to make snide remarks at non-weight-pullers (not proud, just confessing).
 

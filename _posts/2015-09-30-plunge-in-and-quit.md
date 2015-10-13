@@ -1,6 +1,6 @@
 ---
 title: Plunge in and Quit
-layout: page
+layout: post
 ---
 "Plunge in and quit."
 

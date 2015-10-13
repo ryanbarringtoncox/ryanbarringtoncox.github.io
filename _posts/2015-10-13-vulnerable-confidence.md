@@ -15,4 +15,4 @@ Both arrogance and cowardice are out of balance.  Each raises the potential for 
 
 I seek the confidence to confront problems early and the vulnerability to empathize with others.
 
-Victory comes from vulnerable confidence.
+Great relationships come from vulnerable confidence.

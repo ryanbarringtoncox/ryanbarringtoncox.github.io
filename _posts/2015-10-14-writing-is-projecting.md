@@ -12,7 +12,7 @@ I see a trend in recent posts -
 
 I’m not always as clear-headed and on-point as I may appear here. These posts are a barometer for who I want to be.
 
-How can we improve ourselves if we don't know who we want to be?
+**How can we improve ourselves if we don't know who we want to be?**
 
 Writing is a trajectory towards a meaningful, empowered life.
 

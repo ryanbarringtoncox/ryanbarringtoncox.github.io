@@ -10,6 +10,7 @@ Right now, I'm working on -
   - Becoming a kickass [software tester]({{ site.url }}/plunge-in-and-quit)
   - [Leading]({{site.url}}/love-your-audience/) my [speaking club]({{site.url}}/public-speaking-and-living-with-fear) as president, writing/performing a new [story or speech]({{ site.url }}/stories) each month
   - [Blogging]({{ site.url }}/posts) my way through life's lessons
+  - Make more DIY [videos](https://www.youtube.com/playlist?list=PLEP0Foq1SruN9ZA-dz9VbSYaLCF1gWnVP)
 
 These are my priorities. It's helpful to write them down and revisit them periodically.
 

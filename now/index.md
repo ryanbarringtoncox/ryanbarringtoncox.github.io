@@ -7,9 +7,9 @@ Right now, I'm working on -
 
   - Being [present]({{ site.url }}/present), especially as a husband and father. I want to [enjoy]({{site.url}}/enthusiasm) my time, listen, laugh, [love]({{ site.url }}/ten-posts-on-love) and [communicate]({{site.url}}/have-a-point)
   - Living [healthily]({{ site.url }}/sleep-nutrition-exercise)
-  - Becoming a kickass [software tester]({{ site.url }}/plunge-in-and-quit)
+  - Becoming a kickass [software tester]({{ site.url }}/testing)
   - [Leading]({{site.url}}/love-your-audience/) my [speaking club]({{site.url}}/public-speaking-and-living-with-fear) as president, writing/performing a new [story or speech]({{ site.url }}/stories) each month
-  - [Blogging]({{ site.url }}/posts) my way through life's lessons
+  - [Blogging]({{ site.url }}/posts) my way from [confusion]({{site.url}}/confusion-confidence) to [lesson]({{site.url}}/hang-loose).
   - Make more DIY [videos](https://www.youtube.com/playlist?list=PLEP0Foq1SruN9ZA-dz9VbSYaLCF1gWnVP)
 
 These are my priorities. It's helpful to write them down and revisit them periodically.

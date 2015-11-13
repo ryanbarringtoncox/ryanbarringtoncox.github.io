@@ -38,10 +38,10 @@ bing_verify:
 links:
   - title: Posts
     url: /posts
-  - title: Book Notes
-    url: /book-notes
   - title: now
     url: /now
+  - title: Book Notes
+    url: /book-notes
   - title: Etc
     url: /etc
 

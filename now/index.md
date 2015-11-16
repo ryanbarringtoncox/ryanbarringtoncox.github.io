@@ -10,7 +10,7 @@ Right now, I'm working on -
   - Becoming a kickass [software tester]({{ site.url }}/testing)
   - [Leading]({{site.url}}/love-your-audience/) my [speaking club]({{site.url}}/public-speaking-and-living-with-fear) as president, writing/performing a new [story or speech]({{ site.url }}/stories) each month
   - [Blogging]({{ site.url }}/posts) my way from [confusion]({{site.url}}/confusion-confidence) to [lesson]({{site.url}}/hang-loose)
-  - Record quick [DIY videos](https://www.youtube.com/playlist?list=PLEP0Foq1SruN9ZA-dz9VbSYaLCF1gWnVP) of my songs and covers
+  - Recording quick [DIY videos](https://www.youtube.com/playlist?list=PLEP0Foq1SruN9ZA-dz9VbSYaLCF1gWnVP) of my songs and covers
 
 These are my priorities. It's helpful to write them down and revisit them periodically.
 

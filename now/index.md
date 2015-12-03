@@ -11,7 +11,7 @@ Right now, I'm working on -
   - [Leading]({{site.url}}/love-your-audience/) my [speaking club]({{site.url}}/public-speaking-and-living-with-fear) as president, writing/performing a new [story or speech]({{ site.url }}/stories) each month
   - [Blogging]({{ site.url }}/posts) my way from [confusion]({{site.url}}/confusion-confidence) to [lesson]({{site.url}}/hang-loose)
   - Dabbling in [stand-up]({{site.url}}/comedy), getting laughs
-  - Reducing my debt
+  - Becoming Debt Free
 
 These are my priorities. It's helpful to write them down and revisit them periodically.
 

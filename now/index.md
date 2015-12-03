@@ -10,7 +10,6 @@ Right now, I'm working on -
   - Becoming a kickass [software tester]({{ site.url }}/testing) (without losing my [developer chops]({{site.url}}/how-to-think))
   - [Leading]({{site.url}}/love-your-audience/) my [speaking club]({{site.url}}/public-speaking-and-living-with-fear) as president, writing/performing a new [story or speech]({{ site.url }}/stories) each month
   - [Blogging]({{ site.url }}/posts) my way from [confusion]({{site.url}}/confusion-confidence) to [lesson]({{site.url}}/hang-loose)
-  - Recording occasional [DIY videos](https://www.youtube.com/playlist?list=PLEP0Foq1SruN9ZA-dz9VbSYaLCF1gWnVP) of my songs and covers
   - Dabbling in [stand-up]({{site.url}}/comedy), getting laughs
   - Reducing my debt
 

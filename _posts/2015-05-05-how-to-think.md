@@ -11,13 +11,13 @@ Steve Jobs on learning to program:
 -----
 I love that quote from Steve Jobs.
 
-The focus, logic and mental-modeling that I've learned from programming has created positive ripples throughout my life. 
+The focus, logic and mental-modeling that I've learned from programming have created positive ripples throughout my life. 
 
 Programming is about process and thinking in different ways.
 
 There are an infinite number of ways to approach a problem.  How many can you think of?  What are the pros and cons of each?
 
-Programming lights up different parts of your brain and sparks creativity.
+Programming lights up different parts of my brain and sparks creativity.
 
 Ever get stuck in one way of thinking and wear yourself out? Programming reminds me again to step back, re-think the problem and  re-approach.
 

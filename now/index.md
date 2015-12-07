@@ -9,9 +9,9 @@ Right now, I'm working on -
   - Living [healthily]({{ site.url }}/sleep-nutrition-exercise)
   - Becoming a kickass [software tester]({{ site.url }}/testing) (without losing my [developer chops]({{site.url}}/how-to-think))
   - [Leading]({{site.url}}/love-your-audience/) my [speaking club]({{site.url}}/public-speaking-and-living-with-fear) as president, writing/performing a new [story or speech]({{ site.url }}/stories) each month
-  - [Blogging]({{ site.url }}/posts) my way from [confusion]({{site.url}}/confusion-confidence) to [lesson]({{site.url}}/hang-loose)
   - Dabbling in [stand-up]({{site.url}}/comedy), getting laughs
-  - Becoming Debt Free
+  - Becoming debt-free
+  - [Blogging]({{ site.url }}/posts) my way from [confusion]({{site.url}}/confusion-confidence) to [lesson]({{site.url}}/hang-loose)
 
 These are my priorities. It's helpful to write them down and revisit them periodically.
 

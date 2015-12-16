@@ -12,6 +12,7 @@ Right now, I'm working on -
   - Dabbling in [stand-up]({{site.url}}/comedy), getting laughs
   - Becoming debt-free
   - [Blogging]({{ site.url }}/posts) my way from [confusion]({{site.url}}/confusion-confidence) to [lesson]({{site.url}}/hang-loose)
+  - Reading books, [learning]({{site.url}}/meta-learning) new things, expanding my [mind]({{site.url}}/metacognition)
 
 These are my priorities. It's helpful to write them down and revisit them periodically.
 

@@ -13,7 +13,6 @@ Right now, I'm working on -
   - Becoming debt-free
   - [Blogging]({{ site.url }}/posts) my way from [confusion]({{site.url}}/confusion-confidence) to [lesson]({{site.url}}/hang-loose)
   - [Reading books]({{site.url}}/book-notes), [learning]({{site.url}}/meta-learning) new things, expanding my [mind]({{site.url}}/metacognition)
-
-These are my priorities. It's helpful to write them down and revisit them periodically.
+  - Recording quick [DIY videos](https://www.youtube.com/playlist?list=PLEP0Foq1SruN9ZA-dz9VbSYaLCF1gWnVP) of my songs and covers.  Not a high priority, but fun.
 
 My [/bucket page]({{site.url}}/bucket) holds the things I'll do someday, when I have time.

@@ -16,7 +16,7 @@
 </style>
 </head>
 
-<body class="home">
+<body class="page">
 
 {% include _browser-upgrade.html %}
 
@@ -27,7 +27,13 @@
   {% include _subscribe-form.html %}
 </div>
 
-<div id="index">
+<div id="index" class="article-wrap">
+  <h1>Welcome to Trail of Sparks!</h1>
+  
+  <div class="article-wrap">
+    {{ page.content }} 
+  </div>
+
   <h1>Recent Posts</h1>
   {% for post in site.posts limit:12 %}
   <article>

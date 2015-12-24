@@ -62,12 +62,14 @@ Mandelbrot discovers irregularities in the distance of country's borders.  **He 
 \\
 Mandelbrot discovers that all objects, even the simplest attributes of texture and shape, depend on our scale of observance.  What shape is your car from five feet away?  From five thousand feet away?\\
 \\
-Mandelbrot creates the word "Fractal" and shows us an infinitely small line can fit in a finite space.  Wow.\\
+Mandelbrot creates the word "Fractal" and shows us an infinitely small line can fit in a finite space.  Our lungs are like fractals.  Lots of surface area packed into a small area.\\
 \\
 **"Scale is important."** Very important.  Think about the universe all the way down to atoms.  There is complexity and beauty at every scale."\\
 \\
-Self-similarity is an old concept. It means at any scale, the part resembles the whole.\\
+Self-similarity is an old concept. It means at any scale, the part resembles the whole.  Clouds are self-similar.\\
 \\
+\\
+Simple equations can cause endless complex, beautiful patterns.\\
 \\
 **"Art that satisfies lacks scale, in the sense that it contains important elements at all sizes.""**
 

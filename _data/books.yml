@@ -1,4 +1,8 @@
 ---
+- title: An Introduction to General Systems Thinking - by Gerald M. Weinberg
+  url: an-introduction-to-general-systems-thinking 
+  teaser: This 1975 book grew from Weinberg's popular college course on General Systems Theory.  The course didn't fit into any department (perhaps it was too "general").  This book is full of insights, thought experiments and poetic nuggets like "If we want to learn anything, we mustn’t try to learn everything."
+
 - title: Tools of Critical Thinking - by David A. Levy
   url: tools-of-critical-thinking
   teaser: How often do we think about how we think?  This book explores metathinking and highlights common pitfalls and workarounds.
@@ -7,17 +11,9 @@
   url: the-art-of-unix-programming 
   teaser: Unix was built on virtues of elegance, simplicity and versatility.  This book describes Unix coding philosophy in detail and is *probably* only for hackers (prove me wrong non-hackers!).  "Constructive laziness is one of the cardinal virtues of the master programmer.” - Raymond
 
-- title: An Introduction to General Systems Thinking - by Gerald M. Weinberg
-  url: an-introduction-to-general-systems-thinking 
-  teaser: This 1975 book grew from Weinberg's popular college course on General Systems Theory.  The course didn't fit into any department (perhaps it was too "general").  This book is full of insights, thought experiments and poetic nuggets like "If we want to learn anything, we mustn’t try to learn everything."
-
 - title: How to Win Friends and Influence People - by Dale Carnegie
   url: how-to-win-friends-and-influence-people
   teaser: Yes, the title sounds evil and manipulative, but hang on a minute!  This 1936 classic may be the best self-help book of all time.  Help yourself by helping others. This book should be titled "How to be Empathetic" or "How to Communicate Kindly."
-
-- title: The Art of Software Testing - by Glenford J Myers
-  url: the-art-of-software-testing
-  teaser: Software testing is a relatively new field.  Few people agree on how to do it "right."  Some consider this book to be a classic on the subject.  It's brief, general and not tied to any particular trend or technology.
 
 - title: How to Solve It - by George Polya
   url: how-to-solve-it
@@ -26,6 +22,14 @@
 - title: The Total Money Makeover - by Dave Ramsey
   url: total-money-makeover
   teaser: Most Americans are up to their ears in debt and have little to show for it.  Debt is slavery.  It's not how much you make but what you do with it.  Discipline and budgeting go a long way towards financial freedom and "retiring with dignity.".
+
+- title: The Art of Software Testing - by Glenford J Myers
+  url: the-art-of-software-testing
+  teaser: Software testing is a relatively new field.  Few people agree on how to do it "right."  Some consider this book to be a classic on the subject.  It's brief, general and not tied to any particular trend or technology.
+
+- title: "Chaos: Making a New Science - by James Gleick"
+  url: chaos
+  teaser: This epic book examines nature, complexity and the limits of math and science
 
 - title: Computer History
   url: computer-history

@@ -10,7 +10,7 @@ Right now, I'm -
   - [Speaking publicy]({{site.url}}/public-speaking-and-living-with-fear) at least twice a week (doing [stand-up comedy]({{site.url}}/comedy) 50 times before July, 2017).
   - Exploring the art of [software testing]({{ site.url }}/testing) (without losing my [developer chops]({{site.url}}/how-to-think))
   - [Reading books]({{site.url}}/book-notes), [learning]({{site.url}}/meta-learning) new things, expanding my [mind]({{site.url}}/metacognition)
-  - Becoming [debt-free]({{site.url}}/book-notes/total-money-makeover)
+  - Becoming [debt-free]({{site.url}}/debt)
   - [Blogging]({{ site.url }}/posts)
 
 My [/bucket page]({{site.url}}/bucket) holds the things I'll do someday.

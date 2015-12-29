@@ -114,9 +114,12 @@ p {
 	margin: 0 0 @indent-var;
 	& + p {
 		//siblings indentation
-		text-indent: @indent-var;
+		//text-indent: @indent-var;
+		text-indent: 0;
 		margin-top: -(@indent-var);
 	}
+  padding-top: 7px;
+  padding-bottom: 7px;
 }
 
 // Code

@@ -29,9 +29,15 @@
 <div id="index" class="article-wrap">
   <h1>Welcome to Trail of Sparks!</h1>
   
-  <footer>
-    {% include _footer.html %}
-  </footer>
+    <div class="article-author-bottom">
+      <img src="http://trailofsparks.org/images/ryan-photo.jpg" class="bio-photo" alt="Ryan Barrington Cox bio photo" style="
+          margin-bottom: 15px;
+          ">
+    </div>
+
+    <div class="article-wrap">
+      {{ page.content }}
+    </div>
 
   <h1>Recent Posts</h1>
   {% for post in site.posts limit:5 %}

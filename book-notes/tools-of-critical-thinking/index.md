@@ -42,7 +42,6 @@ If A causes B, then A must happen before B.  The author supposes that physical e
 \\
 Mental and physical occur events together as one “psychobiological event.”  Asking whether a patient’s problem is “physical” or “mental” is presumptuous and assumes they are separate things.  
 \\
-\\
 **Mental and physical are forever intertwined.**
 \\
 \\

@@ -23,7 +23,7 @@ In 2015, I'm glad I -
   - Came up with a plan to become [debt-free]({{site.url}}/debt).
   - Built [this website](http://www.thehopicecreamcafe.com).
 
-Five years ago, I was stuck in a crappy job, broke and getting very little done.  Then I started reading [inspiring bloggers](http://sebastianmarshall.com/how-do-i-write-so-much-you-ask-well-glad-you-asked) and felt the spark to actively [change my life]({{site.url}}/change).
+Five years ago, I was stuck in a crappy job, broke, living unhealthily and getting very little done.  Then I started reading [inspiring bloggers](http://sebastianmarshall.com/how-do-i-write-so-much-you-ask-well-glad-you-asked) and felt the spark to actively [change my life]({{site.url}}/change).
 
 This blog helps tremendously with my productivity.  It's amazing how much I can accomplish when I [write regularly]({{site.url}}/writing-is-projecting) about [what excites me]({{site.url}}/enthusiasm).
 

@@ -13,6 +13,7 @@ In 2015, I'm glad I -
   - Got settled in our new house.  My lovely wife and I hand-built a picket fence and privacy panels for our porch. We also planted a maple tree and coordinated gutter, chimney and roof replacement.
   - Became president of my [Toastmasters club](http://www.ashevilletoastmasters.com/), wrote and delivered a dozen speeches and won 2nd place in the NC Division A Humorous Speech Contest.
   - Recorded and released [42 new music videos  on YouTube](https://www.youtube.com/playlist?list=PLEP0Foq1SruN9ZA-dz9VbSYaLCF1gWnVP)
+  - Got my wife pregnant.
   - Attended [stand-up open mics]({{site.url}}/comedy) and started writing jokes.
   - Read inspiring books and started a [book notes section]({{site.url}}/book-notes) on this site to keep track of what I learn (inspired by [Sivers](https://sivers.org)).
   - Added a [/now page]({{site.url}}/now) to this site (also inspired by Sivers).  **Publicly declaring my priorities and keeping them up to date has given me a giant productivity boost.**

@@ -6,6 +6,7 @@ It's New Year's and Leo's [Year-End Reflection post](http://zenhabits.net/yearen
 
 In 2015, I'm glad I -
 
+  - Made [love]({{site.url}}/ten-posts-on-love) a priority.
   - Wrote 152 [blog posts]({{site.url}}/posts).
   - Interviewed for three new jobs and updated my resume.
   - Took a new position as [software tester]({{site.url}}/testing) and immersed myself in the discipline (yes, it pays more).
@@ -20,9 +21,8 @@ In 2015, I'm glad I -
   - Released [this EP](https://ifyouwannas.bandcamp.com/album/higher-than-low) and performed live with my band, The If You Wannas.
   - Came up with a plan to become [debt-free]({{site.url}}/debt).
   - Built [this website](http://www.thehopicecreamcafe.com).
-  - Made [love]({{site.url}}/ten-posts-on-love) a priority.
 
-Five short years ago, I was stuck in a crappy job, broke and getting very little done.  Then I started reading [inspiring bloggers](http://sebastianmarshall.com/how-do-i-write-so-much-you-ask-well-glad-you-asked) and felt the spark to actively [change my life]({{site.url}}/change).
+Five years ago, I was stuck in a crappy job, broke and getting very little done.  Then I started reading [inspiring bloggers](http://sebastianmarshall.com/how-do-i-write-so-much-you-ask-well-glad-you-asked) and felt the spark to actively [change my life]({{site.url}}/change).
 
 This blog helps tremendously with my productivity.  It's amazing how much I can accomplish when I [write regularly]({{site.url}}/writing-is-projecting) about [what excites me]({{site.url}}/enthusiasm).
 

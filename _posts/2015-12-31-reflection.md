@@ -29,4 +29,4 @@ This blog helps tremendously with my productivity.  It's amazing how much I can 
 
 In 2016, I want to lean further towards language and human connection. **I want to share more love and humor with the people around me.**  I also want to eat better, spend less money and drink less alcohol.  You can expect to see more posts on these topics in 2016.
 
-Until then, [thanks so much]({{site.url}}/gratitude) for reading these posts and happy new year! 
+Until then, [thanks so much]({{site.url}}/gratitude) for reading and happy new year! 

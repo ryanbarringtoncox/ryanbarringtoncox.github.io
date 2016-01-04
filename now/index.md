@@ -13,5 +13,6 @@ Right now, I'm -
   - Becoming [debt-free]({{site.url}}/debt)
   - Becoming [clutter-free]({{site.url}}/clutter)
   - [Blogging]({{ site.url }}/posts)
+  - Recording my [live performances]({{site.url}}/writing-vs-performing) on my iPhone
 
 My [/bucket page]({{site.url}}/bucket) holds the things I'll do someday.

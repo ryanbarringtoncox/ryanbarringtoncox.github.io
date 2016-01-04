@@ -12,7 +12,7 @@ Right now, I'm -
   - [Reading books]({{site.url}}/book-notes), [learning]({{site.url}}/meta-learning) new things, expanding my [mind]({{site.url}}/metacognition)
   - Becoming [debt-free]({{site.url}}/debt)
   - Becoming [clutter-free]({{site.url}}/clutter)
+  - Recording my [live performances]({{site.url}}/writing-vs-performing) on an iPhone
   - [Blogging]({{ site.url }}/posts)
-  - Recording my [live performances]({{site.url}}/writing-vs-performing) on my iPhone
 
 My [/bucket page]({{site.url}}/bucket) holds the things I'll do someday.

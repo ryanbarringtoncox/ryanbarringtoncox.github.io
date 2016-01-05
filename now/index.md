@@ -6,13 +6,14 @@ title: "Now"
 Right now, I'm -
 
   - Living [healthily]({{ site.url }}/health)
-  - Being the best [husband]({{site.url}}/ten-posts-on-love) and [father]({{site.url}}/parenthood) I can be
-  - [Speaking publicy]({{site.url}}/public-speaking-and-living-with-fear) as often as possible; telling [stories]({{site.url}}/stories) and doing [stand-up comedy]({{site.url}}/comedy) 50 times before July, 2017.
-  - Becoming a [Software Testing Jedi]({{ site.url }}/testing), (without losing my [developer chops]({{site.url}}/how-to-think))
+  - Being a [family man]({{site.url}}/family-first)
+  - [Testing]({{ site.url }}/testing) and [developing]({{site.url}}/how-to-think) software
+  - Writing and performing [stories]({{site.url}}/stories), [speeches]({{site.url}}/public-speaking-and-living-with-fear),  and [jokes]({{site.url}}/comedy)
   - [Reading books]({{site.url}}/book-notes), [learning]({{site.url}}/meta-learning) new things, expanding my [mind]({{site.url}}/metacognition)
-  - Becoming [debt-free]({{site.url}}/debt)
+  - Recording my songwriting/speaking [performances]({{site.url}}/writing-vs-performing) for an upcoming album
+  - Making quick, dirty [DIY videos](https://www.youtube.com/playlist?list=PLEP0Foq1SruN9ZA-dz9VbSYaLCF1gWnVP) of my songs and covers.
   - Becoming [clutter-free]({{site.url}}/clutter)
-  - Recording my [live performances]({{site.url}}/writing-vs-performing) on an iPhone
+  - Becoming [debt-free]({{site.url}}/debt)
   - [Blogging]({{ site.url }}/posts)
 
 My [/bucket page]({{site.url}}/bucket) holds the things I'll do someday.

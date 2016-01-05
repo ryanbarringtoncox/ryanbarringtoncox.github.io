@@ -26,29 +26,29 @@ Graphs of this chaotic Butterfly Effect behavior may show beautiful, complex pat
 
 Chaos Theory was shunned by most 20th century scholars.  Chaos threatens all that they have built there careers upon.\\
 \\
-Science has traditionally ignored small nonlinearities (i.e. friction, air resistance), to keep the equations and calculations simple and understandable.  The Butterfly Effect shows that neglecting small nonlinearities can cause the science to be drastically wrong.
+Science has traditionally ignored small nonlinearities (i.e. friction, air resistance), to keep the equations and calculations simple and understandable.  The Butterfly Effect shows that neglecting small nonlinearities can cause the science to be drastically wrong.\\
 \\
 Simple oscillators such as swings and pendulums can exhibit wild, unpredictable behavior.\\
 \\
-What does stable mean?  Can chaotic systems exhibit some sense of stability, if viewed in a useful way?\\
+What does "stable" mean?  Can chaotic systems exhibit some sense of stability, if viewed in a useful way?\\
 \\
 Smale studies dynamic systems, topology and dynamic systems.  By analyzing oscillators in their phase space, he sees beautiful patterns.\\
 \\
 **The mysterious swirling Great Red Spot of Jupiter is explained through Chaos Theory.**  Marcus programs a computer simulation of the spot in "small-scale chaotic flow."\\
 \\
-"Marcus learned that a deterministic system can produce much more than just periodic behavior.  He knew to look for wild disorder, and he knew that  islands of structure could appear within the disorder.  So he brought the problem of the Great Red Spot an understanding that a complex system can give rise to turbulence and coherence at the same time.  He could work within an emerging discipline that was creating its own tradition of using the computer as an experimental tool."\\
+"Marcus learned that a deterministic system can produce much more than just periodic behavior.  He knew to look for wild disorder, and he knew that  islands of structure could appear within the disorder.  So he brought the problem of the Great Red Spot an understanding that a complex system can give rise to turbulence and coherence at the same time.  He could work within an emerging discipline that was creating its own tradition of using the computer as an experimental tool."
 
 ### Life's Ups and Downs
 
 Scientists learn not to see chaos, because it disagrees with their need to predict and understand things.\\
 \\
-**"A man leaves the house in the morning thirty seconds late, a flowerpot misses his head by a few millimeters, and then he is run over by a truck.  Or less dramatically, he misses a bus that runs every ten minutes - his connection to a train that runs every hour. Small perturbations in one's daily trajectory can have large consequences...  Science, though - science was different."**\\
+"A man leaves the house in the morning thirty seconds late, a flowerpot misses his head by a few millimeters, and then he is run over by a truck.  Or less dramatically, he misses a bus that runs every ten minutes - his connection to a train that runs every hour. Small perturbations in one's daily trajectory can have large consequences...  Science, though - science was different."\\
 \\
 Chaotic patterns emerge in population growth and decline.\\
 \\
 Some populations rise and fall less and less over time, until they reach an equilibrium with their environment.\\
 \\
-Other systems grow until they become chaotic and then split in two.  The resulting two bifurcations grow until they become chaotic and split again.  We see the periods keep doubling - 1, 2, 4, 8, 16, 32.\\
+Other systems grow until they become chaotic and then split in two.  The resulting **bifurcations** grow until they become chaotic and split again.  We see the periods keep doubling - 1, 2, 4, 8, 16, 32.\\
 \\
 Population biology and ecology exhibit similar periods.  Bizarre behavior like this exists throughout nature, which is full of nonlinear systems.
 
@@ -64,10 +64,9 @@ Mandelbrot discovers that all objects, even the simplest attributes of texture a
 \\
 Mandelbrot creates the word "Fractal" and shows us an infinitely small line can fit in a finite space.  Our lungs are like fractals.  Lots of surface area packed into a small area.\\
 \\
-**"Scale is important."** Very important.  Think about the universe all the way down to atoms.  There is complexity and beauty at every scale."\\
+**"Scale is important."** Very important.  Think about the universe all the way down to atoms.  There is complexity and beauty at every scale.\\
 \\
 Self-similarity is an old concept. It means at any scale, the part resembles the whole.  Clouds are self-similar.\\
-\\
 \\
 Simple equations can cause endless complex, beautiful patterns.\\
 \\

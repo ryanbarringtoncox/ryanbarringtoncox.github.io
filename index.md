@@ -3,6 +3,5 @@ layout: home
 title: Home
 ---
 <p>
-I <a href="/writing-is-projecting">write</a>, <a href="/music">play music</a>, <a href="/stories">tell stories</a> and <a href="https://github.com/ryanbarringtoncox/" target="_blank">develop software</a>.
-This site is an <a href="ideas-generator">ideas-generator</a>, a place for me to <a href="/sensemaking">make sense</a> and <a href="/now">prioritize</a>.
+<a href="/bio">I</a> want to unify my <a href="/ten-posts-on-love">love</a> of <a href="/music">art</a>, <a href="/how-to-think">technology</a> and <a href="/people-who-arent-like-me">people</a> into one <a href="/simplicity">simple</a>, <a href="/enthusiasm">enjoyable</a> thing.  That’s what I’m trying to do here.
 </p>

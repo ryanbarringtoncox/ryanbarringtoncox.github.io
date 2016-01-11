@@ -12,8 +12,8 @@ It would have gone smoother if I'd asked myself questions like these.
 
 I'll never know all the answers to questions like these, but there is merit in asking.
 
-**I missed the opportunity to change course based on an audience response.**
+**I missed the opportunity to change course based on audience response.**
 
-I want to be more [aware]({{site.url}}/awareness-is-a-vessel) of others' feelings, *especially* when the spotlight is on me.
+I want to be more [aware]({{site.url}}/awareness-is-a-vessel) of others' backgrounds and feelings, *especially* when the spotlight is on me.
 
 Note to self: Know your audience.

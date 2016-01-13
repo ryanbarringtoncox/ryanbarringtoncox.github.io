@@ -47,5 +47,5 @@ Models are used to solve problems, calculate engineering feats but it's a lot of
 \\
 Alan Turing designs and operates Colossus Machine, a computer that breaks Nazi encoded messages during WWII. It's built with tubes and does character scanning.  Turing believes computers can be thinking machines, encode thought.  After WWII he designs Ace: Automatic Computing Machine.  Then in 1948, he designs Madam: Manchester automatic digital machine.  Turing used madam to try to explain nature, the universe in terms of numbers. To crack the code.\\
 \\
-Von Neumann\\
-\\
+Von Neumann... (to be continued) 
+

@@ -3,10 +3,6 @@
   url: tools-of-critical-thinking
   teaser: How often do we think about how we think?  This book explores metathinking and highlights common pitfalls and workarounds.
 
-- title: "Chaos: Making a New Science - by James Gleick"
-  url: chaos
-  teaser: '"Disorder was channeled, it seemed, into some common underlying theme."'
-
 - title: An Introduction to General Systems Thinking - by Gerald M. Weinberg
   url: an-introduction-to-general-systems-thinking 
   teaser: This 1975 book grew from Weinberg's popular college course on General Systems Theory.  The course didn't fit into any department (perhaps it was too "general").  This book is full of insights, thought experiments and poetic nuggets like "If we want to learn anything, we mustn’t try to learn everything."
@@ -26,6 +22,10 @@
 - title: How to Solve It - by George Polya
   url: how-to-solve-it
   teaser: Life is full of problems.  Solving problems can be fun. This classic book teaches us how to solve problems and enjoy the process.
+
+- title: "Chaos: Making a New Science - by James Gleick"
+  url: chaos
+  teaser: '"Disorder was channeled, it seemed, into some common underlying theme."'
 
 - title: Computer History
   url: computer-history

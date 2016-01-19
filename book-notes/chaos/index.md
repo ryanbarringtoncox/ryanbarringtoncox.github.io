@@ -4,7 +4,7 @@ title: "Chaos: Making a New Science - by James Gleick"
 ---
 ### My Notes 
 
-*A work in progress - RC 1/6/2015.*
+*A work in progress - RC 1/15/2015.*
 
 #### The Butterfly Effect
 
@@ -103,3 +103,10 @@ The transition from order to chaos exhibits bifurcations, the period-doublings t
 Turbulence is "a continuous spectrum of frequencies."  Feigenbaum discovered the universality in disparate chaotic systems.  
 
 "You don't really know that there isn't another way of assembling all this information that doesn't demand so radical a departure from the way in which you intuit things...  There's a fundamental presumption in physics that the way you understand the world is that you keep isolating its ingredients until you understand the stuff that you think is truly fundamental. Then you presume that the other things you don't understand are details...  One has to look for scaling structures - how do big details relate to little details...  The only things that can ever be universal, in a sense, are scaling things... In a way, art is a theory about the way the world looks to human beings.  It's abundantly obvious that one doesn't know the world around us in detail.  What artists have accomplished is realizing there's only a small amount of stuff that's important, and then seeing what it was... I truly want to know how to describe clouds.  But to say there's a piece over here with that much density - to accumulate that much detailed information, I think is wrong.  It's certainly not how a human being perceives those things, and it's not how an artist perceives things...  Somehow the wondrous promise of the earth is that there are things beautiful in it, things wondrous and alluring, and by virtue of your trade, you want to understand them."  - Feigenbaum
+
+
+#### The Experimenter
+
+Libchaber was a low-temperature scientist, studying Helium at temperatures near absolute zero.  He too read scientific works dating back to the 1600s, to get fresh ideas.
+
+

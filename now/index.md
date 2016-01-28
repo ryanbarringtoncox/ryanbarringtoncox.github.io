@@ -3,7 +3,7 @@ layout: page
 title: "Now"
 ---
 
-Right now, my priorities are -
+Right now, my priorities are:
 
   - Living [healthily]({{ site.url }}/health)
   - Being a [family man]({{site.url}}/family-man)

@@ -7,6 +7,8 @@ title: "Etc"
 
 ---
 
-  - [My music videos]({{site.url}}/music)
-  - [My albums](https://ryanbarringtoncox.bandcamp.com/)
+Et cetera:
+
+  - [More music videos]({{site.url}}/music)
+  - [Albums](https://ryanbarringtoncox.bandcamp.com/)
   - A [tool](https://github.com/ryanbarringtoncox/command_line_lyrics) I wrote for hackers who want instant song lyrics via the command line

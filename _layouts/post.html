@@ -46,7 +46,7 @@
     <div class="article-wrap">
       {{ content }}
       <hr />
-      <em>First published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>.</em><br><br> 
+      <em>{{ page.title }}</em> was first published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%m/%d/%Y' }}</time>.<br><br> 
       {% if page.next.url %}
         Next Post : <a class="color-link" href="{{page.next.url}}">{{page.next.title}}</a><br>
       {% endif %}

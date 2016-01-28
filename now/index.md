@@ -7,10 +7,10 @@ Right now, my priorities are -
 
   - Living [healthily]({{ site.url }}/health)
   - Being a [family man]({{site.url}}/family-man)
+  - Writing and performing [jokes]({{site.url}}/comedy)
   - [Developing]({{site.url}}/how-to-think) and [testing]({{ site.url }}/testing) software
-  - Writing and performing [stories]({{site.url}}/stories), [speeches]({{site.url}}/public-speaking-and-living-with-fear),  and [jokes]({{site.url}}/comedy)
   - [Reading books]({{site.url}}/book-notes), [learning]({{site.url}}/meta-learning) new things, expanding my [mind]({{site.url}}/metacognition)
-  - Recording my songwriting/speaking [performances]({{site.url}}/writing-vs-performing) for an upcoming [album]({{site.url}}/future-albums)
+  - Preparing to deliver a [presentation]({{site.url}}/love-your-audience) on Independent Testing
   - Becoming [clutter-free]({{site.url}}/clutter)
   - Becoming [debt-free]({{site.url}}/debt)
   - [Blogging]({{ site.url }}/posts)

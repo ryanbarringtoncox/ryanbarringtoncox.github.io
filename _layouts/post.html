@@ -46,11 +46,12 @@
     <div class="article-wrap">
       {{ content }}
       <hr />
-      <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>.</p>
-
-      {% if page.image %}
-        <img src="{{ site.url }}/images/{{ page.image}}"alt="{{ page.title }}">
-        <hr />
+      <em>First published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>.</em><br><br> 
+      {% if page.next.url %}
+        Next Post : <a class="color-link" href="{{page.next.url}}">{{page.next.title}}</a><br>
+      {% endif %}
+      {% if page.previous.url %}
+        Prev Post : <a class="color-link" href="{{page.previous.url}}">{{page.previous.title}}</a><br>
       {% endif %}
       {% include _view-all-posts.html %}
     </div><!-- /.article-wrap -->

@@ -7,6 +7,7 @@ Right now, my priorities are:
 
   - Living [healthily]({{ site.url }}/health)
   - Being a [family man]({{site.url}}/family-man)
+  - Practicing [empathy]({{ site.url }}/empathy)
   - Writing and performing [jokes]({{site.url}}/comedy)
   - [Developing]({{site.url}}/how-to-think) and [testing]({{ site.url }}/testing) software
   - [Reading books]({{site.url}}/book-notes), [learning]({{site.url}}/meta-learning) new things, expanding my [mind]({{site.url}}/metacognition)

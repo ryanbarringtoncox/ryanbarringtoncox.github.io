@@ -10,5 +10,5 @@ title: "Etc"
 Et cetera:
 
   - [More music videos]({{site.url}}/music)
-  - [Albums](https://ryanbarringtoncox.bandcamp.com/)
-  - A [tool](https://github.com/ryanbarringtoncox/command_line_lyrics) I wrote for hackers who want instant song lyrics via the command line
+  - <a href="https://ryanbarringtoncox.bandcamp.com" target="_blank">Albums</a>
+  - A <a href="https://github.com/ryanbarringtoncox/command_line_lyrics" target="_blank">tool</a> I wrote for hackers who want instant song lyrics via the command line

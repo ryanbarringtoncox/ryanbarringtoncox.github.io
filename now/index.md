@@ -14,5 +14,3 @@ Right now, my priorities are:
   - Becoming [clutter-free]({{site.url}}/clutter)
   - Becoming [debt-free]({{site.url}}/debt)
   - [Blogging]({{ site.url }}/posts)
-
-My [/bucket page]({{site.url}}/bucket) holds the things I'll do someday.

@@ -5,6 +5,7 @@ title: "Now"
 
 Right now, my priorities are:
 
+  - [Enjoying]({{site.url}}/enjoy) life
   - Living [healthily]({{ site.url }}/health)
   - Being a [family man]({{site.url}}/family-man)
   - Practicing [more empathy]({{ site.url }}/empathy)

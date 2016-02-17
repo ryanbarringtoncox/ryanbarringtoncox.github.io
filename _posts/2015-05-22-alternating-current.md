@@ -14,7 +14,7 @@ I love [tracking](/time-tracking), [focusing](/focus) and [learning](/four-level
 
 Periodically, when I feel bored, tired or limited by an idea, I discard it.  I may come back to it.  I may not.
 
-Ideas can set us free **or** confine us.  I yearn to continually renew.
+Ideas can set us free *or* confine us.  I yearn to continually renew.
 
 It starts with ideas.
 
@@ -31,7 +31,7 @@ Changing current ideas regularly keeps it fresh.  This is alternating current.
   - Do the opposite.
   - Repeat.
 
-Come back to an idea only if it becomes enticing or useful again.  There is not need to commit to ideas.
+Come back to an idea only if it becomes enticing or useful again.  There is no need to commit to ideas.
 
 Am I contradicting myself in these posts?
 

@@ -45,7 +45,7 @@
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
       {{ content }}
-      <hr />
+      <br>
       <em>published <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%m/%d/%Y' }}</time>.</em><br><br> 
       {% if page.next.url %}
         Next Post : <a class="color-link" href="{{page.next.url}}">{{page.next.title}}</a><br>

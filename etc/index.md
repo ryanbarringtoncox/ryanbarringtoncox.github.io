@@ -4,9 +4,7 @@ title: "Etc"
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/CREndj3PUcY" frameborder="0" allowfullscreen></iframe>
-
----
-
+\\
 Et cetera:
 
   - [More music videos]({{site.url}}/music)

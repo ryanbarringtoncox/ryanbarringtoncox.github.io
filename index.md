@@ -3,5 +3,5 @@ layout: home
 title: Home
 ---
 <p>
-<a href="/bio">I</a> want to unify my <a href="/ten-posts-on-love">love</a> of <a href="/music">art</a>, <a href="/how-to-think">technology</a> and <a href="/people-who-arent-like-me">people</a> into one <a href="/simplicity">simple</a>, <a href="/enthusiasm">enjoyable</a> thing.  That’s what I’m trying to do here.
+The great secrets are simple and enjoyable.  I'm trying to uncover as many of them as I can.  That's what I'm doing here.
 </p>

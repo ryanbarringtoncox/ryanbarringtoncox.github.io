@@ -17,4 +17,4 @@ then SPILLS\\
 \\
 cream\\
 \>\>cuts\<\<\\
-black coffee.
+black coffee

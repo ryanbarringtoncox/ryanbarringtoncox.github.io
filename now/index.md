@@ -11,7 +11,7 @@ Right now, my priorities are:
   - Practicing [more empathy]({{ site.url }}/empathy)
   - Writing and performing [jokes]({{site.url}}/comedy)
   - [Developing]({{site.url}}/how-to-think) and [testing]({{ site.url }}/testing) software
-  - Preparing for a [presentation]({{site.url}}/love-your-audience) on Software Testing
+  - Preparing a [presentation]({{site.url}}/love-your-audience) on Software Testing
   - Becoming [clutter-free]({{site.url}}/space)
   - Becoming [debt-free]({{site.url}}/debt)
   - [Blogging]({{ site.url }}/posts)

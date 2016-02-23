@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 <p>
-The great secrets are simple and enjoyable.  I'm trying to uncover as many of them as I can.  That's what I'm doing here.
+I'm a <a href="fireflies">writer</a>, <a href="/music">musician</a>, <a href="/how-to-think">software developer</a> and aspiring <a href="on-comedy">comedian</a>.
 </p>
-<br>
+<p>
+This site is all about uncovering the great, <a href="/minimal">simple</a> secrets of life, which is impossible and <a href="/wise-words">fun</a>.
+</p>

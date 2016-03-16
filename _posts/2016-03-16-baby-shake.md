@@ -10,4 +10,6 @@ Before you can take your baby home from the hospital they make you watch another
 
 You're sitting there with your precious newborn baby, entranced by her beauty, watching this horror flick, going, "Who would do such an awful thing?  Who would *shake* a baby?!"
 
-Sixteen consecutive sleepless nights later, your fridge is full of salad dressing, and it's all well-shaken.
+Sixteen consecutive sleepless nights later...
+
+Your fridge is full of salad dressing and it's all well-shaken.

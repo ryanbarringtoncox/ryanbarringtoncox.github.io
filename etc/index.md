@@ -7,6 +7,6 @@ title: "Etc"
 \\
 Et cetera:
 
-  - [More music videos]({{site.url}}/music)
   - <a href="https://ryanbarringtoncox.bandcamp.com" target="_blank">Albums</a>
+  - [Music videos]({{site.url}}/music)
   - A <a href="https://github.com/ryanbarringtoncox/command_line_lyrics" target="_blank">tool</a> I wrote for hackers who want instant song lyrics via the command line

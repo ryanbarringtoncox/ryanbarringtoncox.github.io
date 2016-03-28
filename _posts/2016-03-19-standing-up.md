@@ -6,11 +6,11 @@ I've been performing stand-up comedy for sixteen consecutive weeks now.
 
 Last week, I had my best response yet.  I put the recording [here](https://ryanbarringtoncox.bandcamp.com/album/standing-up). Don't listen if you're easily offended by cursing or dark humor. Comedy explores tense subjects.
 
-Stand-up incorporates writing but it's also a performance, which is a different beast altogether. Pulling laughs from a crowd is an electric challenge.  I have to be present, in the moment, connected, to pull it off.
+Stand-up incorporates writing but it's also a performance, which is a different beast altogether. Pulling laughs from a crowd is an electric challenge.  I have to be present in the moment, connect right away and get a rhythm going.  If they are silent too long, it's not working.  It's brutal and thrilling to give it a go.  It lets you know you're alive.
 
 The material that comes out in stand-up is different from what I've been writing here.  It's darker, edgier, more satirical. I don't completely understand it, but I'm hooked.  I want to explore comedy further and weave it into everything I create.
 
-I believe humor is the greatest art we have.  What's more important that coming together in laughter?
+Humor is the greatest performance art we have.  What's more important that coming together in laughter? What's simpler than one person talking?
 
 I hope you enjoy the set!
 

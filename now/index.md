@@ -3,12 +3,12 @@ layout: page
 title: "Now"
 ---
 
-Right now, my priorities are:
+My priorities are:
 
   - [Health]({{ site.url }}/health)
   - [Family]({{site.url}}/family-man)
-  - [Empathy]({{ site.url }}/empathy)
+  - [Writing]({{ site.url }}/posts)
   - [Performing]({{site.url}}/standing-up)
   - [Simplicity]({{site.url}}/space)
-  - [Writing]({{ site.url }}/posts)
+  - [Empathy]({{ site.url }}/empathy)
   - [Fun]({{site.url}}/enjoy)

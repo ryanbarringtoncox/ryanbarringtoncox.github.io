@@ -40,7 +40,7 @@
     </div>
 
   <h1>Recent Posts</h1>
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:20 %}
   <article>
     <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }} {{ post.date | date: '%m/%d/%Y' }}</a></h2>
     <div class="article-wrap">

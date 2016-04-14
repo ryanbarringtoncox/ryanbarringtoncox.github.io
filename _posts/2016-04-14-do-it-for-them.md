@@ -10,6 +10,6 @@ I keep forgetting and re-remembering because my ego is too big and my brain is t
 
 Do it for them.  Do it for them. Do it for them.
 
-Connect by providing value for someone else.
+Connect by providing value to someone else.
 
 Do it for them.

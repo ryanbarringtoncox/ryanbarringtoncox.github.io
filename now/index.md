@@ -3,12 +3,8 @@ layout: page
 title: "Now"
 ---
 
-My priorities are:
+My priorities, in order of importance, are:
 
   - [Health]({{ site.url }}/health)
-  - [Family]({{site.url}}/family-man)
-  - [Writing]({{ site.url }}/posts)
-  - [Performing]({{site.url}}/standing-up)
-  - [Simplicity]({{site.url}}/space)
-  - [Empathy]({{ site.url }}/empathy)
-  - [Fun]({{site.url}}/enjoy)
+  - [Presence]({{site.url}}/present), especially with [family]({{site.url}}/family-man)
+  - Art through [software]({{site.url}}/how-to-think) and [comedy]({{site.url}}/standing-up)

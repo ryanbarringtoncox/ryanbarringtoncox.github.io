@@ -14,3 +14,5 @@ Here are some things I want to remember from the book.
   - Let kids fail and experience their own natural consequences.  We learn through experience, not being told things.
   - Give kids as much control as they can handle, within reasonable boundaries.  As they grow, progressively widen those boundaries.  Teenagers, for example, should have a good deal of control over their lives, to prepare them for adulthood.
   - **Empathize with your kids.**  Rather than getting angry, feel their sorrow and pain when they make mistakes.  Talk to them and make sure they own their problems (unless they are in serious danger).
+
+It's interesting to read others' thoughts on parenting.

@@ -8,4 +8,4 @@ I went to see a hypnotist and he made me write this.
 
 Waiter, bring me a glass of tap water with filtered ice.
 
-Emojis are for the sender.  Treat yourself, but don't kid yourself.
+Emojis are for the sender, not the receiver.  Treat yourself, but don't kid yourself.

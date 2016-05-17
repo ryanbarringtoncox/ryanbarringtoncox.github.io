@@ -41,8 +41,8 @@ links:
     url: /posts
 #  - title: now
 #    url: /now
-#  - title: Book Notes
-#    url: /book-notes
+  - title: Book Notes
+    url: /book-notes
   - title: Etc
     url: /etc
 

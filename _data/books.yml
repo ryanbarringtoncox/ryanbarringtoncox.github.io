@@ -1,5 +1,13 @@
 ---
-- title: Tools of Critical Thinking - by David A. Levy
+- title: Deep Work - by Cal Newport
+  url: deep-work
+  teaser: This book argues that, in our distracted world, focus is the new IQ. Deep Work means turning off your phone and closing your inbox (and your door) so you can work in a distraction-free environment. Cultivating this regular habit, for hours at a time, is how you find flow and produce great work. 
+
+-- title: Love and Logic - by Foster Cline and Jim Fay
+  url: love-and-logic
+  teaser: A book on parenting that encourages kids to make their own decisions and take more responsibility.
+
+ title: Tools of Critical Thinking - by David A. Levy
   url: book-notes/tools-of-critical-thinking
   teaser: How often do we think about how we think?  This book explores metathinking and highlights common pitfalls and workarounds.
 
@@ -11,25 +19,21 @@
   url: book-notes/how-to-win-friends-and-influence-people
   teaser: Yes, the title sounds evil and manipulative, but hang on a minute!  This 1936 classic may be the best self-help book of all time.  Help yourself by helping others. This book should be titled "How to be Empathetic" or "How to Communicate Kindly."
 
-- title: Deep Work - by Cal Newport
-  url: deep-work
-  teaser: This book argues that, in our distracted world, focus is the new IQ. Deep Work means turning off your phone and closing your inbox (and your door) so you can work in a distraction-free environment. Cultivating this regular habit, for hours at a time, is how you find flow and produce great work. 
-
 - title: The Art of Unix Programming - by Eric S. Raymond 
   url: book-notes/the-art-of-unix-programming 
   teaser: Unix was built on virtues of elegance, simplicity and versatility.  This book describes Unix coding philosophy in detail and is *probably* only for hackers (prove me wrong non-hackers!).  "Constructive laziness is one of the cardinal virtues of the master programmer.” - Raymond
 
-- title: How to Solve It - by George Polya
+-- title: The Art of Mingling- by Jeanne Martinet
+  url: book-notes/the-art-of-mingling
+  teaser: This book discusses a topic that has terrified me in the past: Mingling with strangers.  “Ultimately, mingling well with others is a way of getting in touch with all that is vibrant and wonderful about life.”
+
+ title: How to Solve It - by George Polya
   url: book-notes/how-to-solve-it
   teaser: Life is full of problems.  Solving problems can be fun. This classic book teaches us how to solve problems and enjoy the process.
 
 - title: The Life-Changing Magic of Tidying Up - by Marie Kondo
   url: book-notes/the-life-changing-magic-of-tidying-up
   teaser: You can increase the quality of your life by simplifying your home and possessions.
-
-- title: Love and Logic - by Foster Cline and Jim Fay
-  url: love-and-logic
-  teaser: A book on parenting that encourages kids to make their own decisions and take more responsibility.
 
 - title: The Total Money Makeover - by Dave Ramsey
   url: book-notes/total-money-makeover

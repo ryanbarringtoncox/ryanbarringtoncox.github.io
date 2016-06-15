@@ -3,11 +3,11 @@
   url: deep-work
   teaser: This book argues that, in our distracted world, focus is the new IQ. Deep Work means turning off your phone and closing your inbox (and your door) so you can work in a distraction-free environment. Cultivating this regular habit, for hours at a time, is how you find flow and produce great work. 
 
--- title: Love and Logic - by Foster Cline and Jim Fay
+- title: Love and Logic - by Foster Cline and Jim Fay
   url: love-and-logic
   teaser: A book on parenting that encourages kids to make their own decisions and take more responsibility.
 
- title: Tools of Critical Thinking - by David A. Levy
+- title: Tools of Critical Thinking - by David A. Levy
   url: book-notes/tools-of-critical-thinking
   teaser: How often do we think about how we think?  This book explores metathinking and highlights common pitfalls and workarounds.
 
@@ -23,11 +23,11 @@
   url: book-notes/the-art-of-unix-programming 
   teaser: Unix was built on virtues of elegance, simplicity and versatility.  This book describes Unix coding philosophy in detail and is *probably* only for hackers (prove me wrong non-hackers!).  "Constructive laziness is one of the cardinal virtues of the master programmer.” - Raymond
 
--- title: The Art of Mingling- by Jeanne Martinet
+- title: The Art of Mingling- by Jeanne Martinet
   url: book-notes/the-art-of-mingling
   teaser: This book discusses a topic that has terrified me in the past: Mingling with strangers.  “Ultimately, mingling well with others is a way of getting in touch with all that is vibrant and wonderful about life.”
 
- title: How to Solve It - by George Polya
+- title: How to Solve It - by George Polya
   url: book-notes/how-to-solve-it
   teaser: Life is full of problems.  Solving problems can be fun. This classic book teaches us how to solve problems and enjoy the process.
 

@@ -4,8 +4,6 @@ title: "Chaos: Making a New Science - by James Gleick"
 ---
 ### My Notes 
 
-*A work in progress - RC 1/15/2015.*
-
 #### The Butterfly Effect
 
 Chaos emerges as a new approach to science in the latter half of the 20th century.

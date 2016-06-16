@@ -2,7 +2,7 @@
 layout: page
 title: The Art of Mingling - by Jeanne Martinet
 ---
-###My Notes
+### My Notes
 
 I read [The Art of Mingling](https://www.amazon.com/Art-Mingling-Proven-Techniques-Mastering/dp/0312083165?ie=UTF8&*Version*=1&*entries*=0) because I've never been comfortable talking to groups of strangers and I feel like I'm missing out.
 

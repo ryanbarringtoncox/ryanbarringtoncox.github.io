@@ -12,7 +12,7 @@ One day the cat wandered into the dark crawl space beneath the farmhouse.  He ha
 
 "Do you like to read?" a small voice called out behind him.
 
-The cat turned and saw a tiny, gray mouse with only three legs.  The cat was surprised.  Mice had always run from him before.  He drank in the sight of the mouse curiously and then laughed. 
+The cat turned and saw a tiny, gray mouse with only three legs.  The cat was surprised.  Mice always ran from him.  He drank in the sight of this curious mouse and then laughed. 
 
 "Read?" the cat roared.  "When you're as strong and fast as me, you don't need to *read*!" The cat laughed again, louder than before.
 
@@ -20,25 +20,27 @@ The mouse remained still, his eyes steady.  When the cat's laughter subsided, th
 
 The cat was taken aback.  No creature had spoken to him with such authority before.  The cat leaned in close to the mouse and grinned widely, showing his sharp, yellow teeth.  He ran one of his razor sharp claws along the mouse's cheek and hissed, "I could eat you and your knowledge right now."
 
-The mouse did not flinch. The cat turned and meandered out of the crawl space, muttering, "But who wants to eat a chewy old three-legged mouse anyway."
+The mouse did not flinch. The cat blinked a few times, turned and meandered out of the crawl space, muttering, "Who wants to eat a chewy old three-legged mouse anyway."
+
+...
 
 That summer there was a terrible drought.  It didn't rain for days, weeks, a whole month.  The stream that flowed through the forest dried up.  The cat became thirsty.  When the farm sprinklers came on, the cat would try to catch water in his mouth but it was not enough to quench his thirst.  The cat searched the forest and farmland high and low but found no water.
 
-The cat grew so weak and dizzy that he accepted his fate.  Death was near. He crawled through the tall grass of the farmland to a clearing to die.
+The cat grew so weak and dizzy that he accepted his fate.  Death was near. He crawled through the tall grass to die in a clearing.
 
-There before him stood a glass pitcher with water inside.  The cat perked up.  He leaped onto the pitcher and dipper his face inside.  The water was too low.  He couldn't reach it.  He tried flicking his tongue but the water was too far down.
+There before him stood a tall glass pitcher with water inside.  The cat perked up.  He leaped onto the pitcher and dipper his face inside.  The water was too low.  He couldn't reach it.  He tried flicking his tongue but the water was too far down.
 
 The cat started pushing the pitcher with all his might, trying to knock it over, but he had grown weak and the pitcher was heavy.
 
-Suddenly, the three-legged mouse came sauntering into the clearing, whistling brightly.  The mouse eyed the situation with his wise, steady eyes and said, "You know, even if you do manage to knock that pitcher over, you'll only get a few drops of water before it evaporates.  Then you'll be back where you started."
+Suddenly, the three-legged mouse came sauntering into the clearing, whistling brightly.  The mouse watched the cat pushing the vase with his wise, steady eyes and said, "You know, even if you do manage to knock that pitcher over, you'll only get a few drops of water before it evaporates.  Then you'll be back where you started."
 
 The cat's heart sank.  He knew the mouse was right.  He collapsed on the dirt.  "Well, where are you getting your water!?" he shouted angrily at the mouse.
 
-"I have studied the farmer and the house," replied the mouse.  "I may not be strong or fast, but I know how to get plenty of water and food because I work *smarter*, not *harder*."
+"I have studied the farmer and the house," replied the mouse.  "I come and go as I please.  I may not be strong or fast, but I know how to get plenty of water and food because I work *smarter*, not *harder*."
 
-The cat started weeping on the dirt, which dehydrated him even more.  He was ready to die.  Then the mouse picked up a small pebble and threw it into the pitcher with a *splash*. "Think about it, my friend," the mouse said. "There may be a solution to your problem if you work smarter, not harder."
+The cat started weeping on the dirt, which dehydrated him even more.  He was ready to die.  The mouse picked up a small pebble and threw it into the pitcher with a *splash*. "Think about it, my friend," the mouse said. "There may be a solution to your problem if you work smarter, not harder. Now if you'll excuse me, I have to pee.  I must've had too much of the farmer's water."
 
-With that, the mouse left the cat to stare at the pitcher long and hard.  After several moments, the cat noticed the water level had risen ever so slightly.  He picked up another pebble and threw it into the pitcher.  *Splash*.  The water level rose.
+With that, the mouse left the cat to stare at the pitcher long and hard.  After several moments, the cat noticed the water level had risen ever so slightly.  He looked at the pebble in the water.  He picked up another pebble and threw it into the pitcher.  *Splash*.  The water level rose.
 
 The cat leaped to his feet and started throwing more pebbles and rocks into the pitcher.  The water rose higher and higher, to the top of the pitcher.  The cat dipped his head in and took a sip of water. He emerged smiling, wiping the moisture from his whiskers and exclaimed, "Ahhhhh!"
 
@@ -46,9 +48,9 @@ The cat had never felt so satisfied. The water had not only hydrated his body. I
 
 The cat ran excitedly to the mouse's house in the crawl space and gave him an affectionate lick.  "Thank you, thank you!" he exclaimed. "I now see the error of my ways."
 
-The cat and mouse became friends.  The mouse taught the cat to read and they read books on software, philosophy, fables and more.  The following year, the cat and mouse moved to San Francisco and started a software company called "The Thirsty Cat."  The company was an instant hit.  After just two years, they sold the company to Google for an enormous sum of money.
+The cat and mouse became friends.  The mouse taught the cat to read books on software, philosophy, history and more.  The following year, the cat and mouse moved to San Francisco and started a software company called "The Thirsty Cat."  The company was an instant hit.  After two years, they sold the company to Google for an enormous sum of money.
 
-Now the cat and mouse spend their days reading books by a crystal swimming pool in their California home, sipping fresh Lemonade.
+Now the cat and mouse spend their days reading books by a crystal swimming pool in their California home, sipping fresh lemonade, working smarter not harder.
 
 ---
 

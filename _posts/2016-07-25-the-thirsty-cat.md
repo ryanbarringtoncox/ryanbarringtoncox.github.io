@@ -28,7 +28,7 @@ That summer there was a terrible drought.  It didn't rain for days, weeks, a who
 
 The cat grew so weak and dizzy that he accepted his fate.  Death was near. He crawled through the tall grass to die in a clearing.
 
-There before him stood a tall glass pitcher with water inside.  The cat perked up.  He leaped onto the pitcher and dipper his face inside.  The water was too low.  He couldn't reach it.  He tried flicking his tongue but the water was too far down.
+There before him stood a tall glass pitcher with water inside.  The cat perked up.  He leaped onto the pitcher and dipped his face inside.  The water was too low.  He couldn't reach it.  He tried flicking his tongue but the water was too far down.
 
 The cat started pushing the pitcher with all his might, trying to knock it over, but he had grown weak and the pitcher was heavy.
 

@@ -1,5 +1,5 @@
 ---
 layout: notes-index
-title: "Book Notes"
+title: "Notes"
 ---
 These are my notes from books and courses I want to remember.

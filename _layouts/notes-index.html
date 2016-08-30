@@ -44,7 +44,7 @@
   <h1>{{ page.title }}</h1>
     {{ content }} 
     <article>
-      {% for book in site.data.books %}
+      {% for book in site.data.notes %}
       <a class="color-link" href="{{site.url}}/{{ book.url }}" title="">{{ book.title }}</a>
         <p>{{ book.teaser }}</p>
       {% endfor %}

@@ -4,8 +4,8 @@ title: Blackbirds
 ---
 Here’s one\\
 for the blackbirds\\
-that caw at the trucks\\
-and claw at the branches,\\
+who caw at steel trucks\\
+from the fingers of trees,\\
 sharpening their beaks\\
 on blades of grass,\\
 still laughing.

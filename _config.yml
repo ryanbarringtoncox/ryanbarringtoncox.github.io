@@ -40,12 +40,10 @@ bing_verify:
 links:
   - title: Posts
     url: /posts
-#  - title: now
-#    url: /now
   - title: Notes
     url: /notes
-  - title: Etc
-    url: /etc
+  - title: Songs
+    url: /songs
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

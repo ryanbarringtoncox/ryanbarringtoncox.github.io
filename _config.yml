@@ -1,7 +1,8 @@
 title:            Trail of Sparks 
 description:      Ryan Barrington Cox's blog. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://trailofsparks.org
+#url:              http://trailofsparks.org
+url:              http://ryanbarringtoncox.github.io
 #disqus_shortname: 'trailofsparks'
 
 # Owner/author information

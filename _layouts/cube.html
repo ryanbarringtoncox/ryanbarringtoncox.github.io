@@ -3,67 +3,69 @@
 <head>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script>
-symbols = [
-    'rose',
-    'wand',
-    'lightening',
-    'aliens',
-    'arc',
-    'swordfish',
-    'fork in the road',
-    'cloak',
-    'knife',
-    'tall grass',
-    'pony',
-    'siamese cat',
-    'shovel',
-    'old woman',
-    'old man',
-    'crystal lake',
-    'waterfall',
-    'blackbird',
-    'mountain',
-    'crying',
-    'digging',
-    'anger',
-    'eye patch',
-    'sheep',
-    'witch',
-    'telescope',
-    'cobra',
-    'telescope',
-    'castle',
-    'elephant',
-    'genie',
-    'pyramid',
-    'compass',
-    'frog',
-    'moon',
-    'computer',
-    'jungle',
-    'pool',
-    'snail',
-    'mask',
-    'ice',
-    'bridge',
-    'guitar',
-    'sword',
-    'ladybug',
-    'lost'
-]
+    symbolCounter = 0
+    symbols = [
+        'rose',
+        'wand',
+        'lightening',
+        'aliens',
+        'arc',
+        'swordfish',
+        'fork in the road',
+        'cloak',
+        'knife',
+        'tall grass',
+        'pony',
+        'siamese cat',
+        'shovel',
+        'old woman',
+        'old man',
+        'crystal lake',
+        'waterfall',
+        'blackbird',
+        'mountain',
+        'crying',
+        'digging',
+        'anger',
+        'eye patch',
+        'sheep',
+        'witch',
+        'telescope',
+        'cobra',
+        'telescope',
+        'castle',
+        'elephant',
+        'genie',
+        'pyramid',
+        'compass',
+        'frog',
+        'moon',
+        'computer',
+        'jungle',
+        'pool',
+        'snail',
+        'mask',
+        'ice',
+        'bridge',
+        'guitar',
+        'sword',
+        'ladybug',
+        'lost'
+    ]
 
-//currentSymbols = [];
+    function log() {
+      newSymbol = getRandomSymbol()
+      symbolCounter++;
+      $( "body div" ).prepend( "<h1 onClick=remove("+symbolCounter+") id="+symbolCounter+">"+newSymbol+"</h1>");
+    }
 
-function log() {
-  console.log(getRandomSymbol())
-  newSymbol = getRandomSymbol()
-  $( "body" ).append( "<h1>"+newSymbol+"</h1>" );
-}
+    function getRandomSymbol(sybmols) {
+      return symbols[Math.floor(Math.random()*symbols.length)];
+    }
 
-function getRandomSymbol(sybmols) {
-  return symbols[Math.floor(Math.random()*symbols.length)];
-}
-
+    function remove(id) {
+      $( "#"+id).remove();
+    }
   </script>
   <style>
     h1   {font-size:100px; text-align:center; padding:10px 0;}
@@ -72,11 +74,7 @@ function getRandomSymbol(sybmols) {
   <title>Story Cube</title>
 </head>
 <body>
-<button onclick="log()">roll</button>
-<script>
-    function reload() {
-        location.reload();
-    }
-</script>
+  <button onclick="log()">roll</button>
+  <div></div>
 </body>
 </html>
